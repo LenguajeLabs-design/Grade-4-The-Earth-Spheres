@@ -1,0 +1,442 @@
+{
+  "en": {
+    "language": "ENGLISH",
+    "coverTitle": "THE ATMOSPHERE",
+    "subtitle": "The Invisible World Around Us",
+    "coverQuestion": "Can you see the air?",
+    "coverBody": "Look up. Look around. The air is everywhere!",
+    "pages": [
+      {
+        "title": "What Is the Atmosphere?",
+        "caption": "LOOK: the blue glow around Earth",
+        "body": [
+          "The atmosphere is a blanket of gases around Earth. These gases make up the air.",
+          "We cannot see most of the air. But air is all around us. We breathe air every day."
+        ],
+        "label": "AMAZING FACT",
+        "callout": "From space, our atmosphere can look like a thin blue line."
+      },
+      {
+        "title": "Can You Feel the Air?",
+        "caption": "A windsock moves in the wind",
+        "body": [
+          "Wind is moving air. We can feel wind on our skin.",
+          "A gentle wind is a breeze. Strong wind can move branches and push clouds."
+        ],
+        "label": "LOOK + THINK",
+        "callout": "How can you tell the air is moving? Point to something in the picture."
+      },
+      {
+        "title": "What Are Clouds Made Of?",
+        "caption": "Tiny drops make clouds",
+        "body": [
+          "Clouds are made of tiny drops of water or small pieces of ice.",
+          "Water vapor can rise into the air. When the air cools, tiny water drops can form a cloud."
+        ],
+        "label": "SPHERE CONNECTION",
+        "callout": "Clouds form in the atmosphere. Their water also connects to the hydrosphere."
+      },
+      {
+        "title": "When Weather Gets Wild",
+        "caption": "Thunderstorm over land",
+        "body": [
+          "Some clouds grow very tall and dark. A storm can bring strong wind, rain, thunder, and lightning.",
+          "Lightning is a bright flash of electricity. Thunder is the sound we hear after lightning."
+        ],
+        "label": "STAY SAFE",
+        "callout": "If you hear thunder, go inside a building."
+      },
+      {
+        "title": "Why Do We Need Air?",
+        "caption": "THE ATMOSPHERE HELPS LIFE",
+        "body": [
+          "It gives people and animals air to breathe.",
+          "It helps keep Earth warm enough for many living things.",
+          "Another amazing job: High above us, ozone in the atmosphere helps protect life from some harmful sunlight."
+        ],
+        "label": "TALK ABOUT IT",
+        "callout": "Tell a partner one way the atmosphere helps life."
+      },
+      {
+        "title": "Earth Is Connected!",
+        "caption": "Rain connects Earth's spheres",
+        "body": [
+          "A cloud forms in the atmosphere. Rain falls from the cloud.",
+          "Rain adds water to rivers. It helps plants grow. It can move soil and small rocks."
+        ],
+        "label": "FOUR SPHERES",
+        "callout": "One weather event can affect all four spheres.",
+        "chips": [
+          "AIR",
+          "WATER",
+          "LAND",
+          "LIFE"
+        ]
+      }
+    ],
+    "toolkitTitle": "Your Scientist Toolkit",
+    "vocabTitle": "5 WORDS TO REMEMBER",
+    "vocab": [
+      [
+        "atmosphere",
+        "air surrounding Earth"
+      ],
+      [
+        "air",
+        "a mixture of gases"
+      ],
+      [
+        "wind",
+        "air that moves"
+      ],
+      [
+        "cloud",
+        "tiny water drops or ice in the air"
+      ],
+      [
+        "storm",
+        "weather with strong wind, rain, or lightning"
+      ]
+    ],
+    "checkTitle": "CHECK YOUR UNDERSTANDING",
+    "questions": [
+      "What is the atmosphere?",
+      "What is wind?",
+      "Name one thing you see during a storm."
+    ],
+    "talkTitle": "TALK LIKE A SCIENTIST",
+    "frame": "I see ____. It is part of the atmosphere.",
+    "source": "Science review sources in original: NASA Earth Observatory; NOAA/NESDIS Clouds; NOAA/NWS Lightning Safety.",
+    "imageNote": "The images are photorealistic illustrations, not authentic scientific photographs."
+  },
+  "ja": {
+    "language": "日本語",
+    "name": "Japanese",
+    "coverTitle": "大気（たいき）",
+    "subtitle": "わたしたちのまわりにある、見えない世界",
+    "coverQuestion": "空気は見えますか？",
+    "coverBody": "上を見てみよう。まわりを見てみよう。空気はどこにでもあります！",
+    "pages": [
+      {
+        "title": "大気（たいき）って何？",
+        "caption": "見てみよう：地球を包む青い光",
+        "body": [
+          "大気は、地球を毛布のように包む気体（きたい）の集まりです。この気体の集まりが空気です。",
+          "空気のほとんどは見えません。でも、空気はわたしたちのまわりにあります。わたしたちは毎日、空気を吸って呼吸しています。"
+        ],
+        "label": "びっくりする事実",
+        "callout": "宇宙から見ると、地球の大気は細い青い線のように見えることがあります。"
+      },
+      {
+        "title": "空気を感じられる？",
+        "caption": "風に吹かれて動く吹き流し",
+        "body": [
+          "風は、動いている空気です。わたしたちは、はだで風を感じることができます。",
+          "弱く、やさしく吹く風を「そよ風」といいます。強い風は、木の枝をゆらしたり、雲を動かしたりします。"
+        ],
+        "label": "見て、考えよう",
+        "callout": "空気が動いていることは、何を見ればわかりますか？ 絵の中にあるものを一つ指さしてみましょう。"
+      },
+      {
+        "title": "雲は何でできているの？",
+        "caption": "小さな水のつぶが雲をつくる",
+        "body": [
+          "雲は、とても小さな水のつぶや氷のつぶでできています。",
+          "水蒸気（すいじょうき）は、空気とともに上へ移動することがあります。空気が冷えると、小さな水のつぶができ、雲になることがあります。"
+        ],
+        "label": "地球のしくみのつながり",
+        "callout": "雲は大気の中にできます。雲の水は、水圏（すいけん）ともつながっています。"
+      },
+      {
+        "title": "天気があれるとき",
+        "caption": "陸地の上で発生した雷雨（らいう）",
+        "body": [
+          "雲の中には、とても高く、大きく育ち、暗く見えるものがあります。あらしになると、強い風、雨、雷の音、いなずまが発生することがあります。",
+          "いなずまは、電気が明るく光る現象です。雷の音は、いなずまのあとに聞こえる音です。"
+        ],
+        "label": "安全のために",
+        "callout": "雷の音が聞こえたら、建物の中に入りましょう。"
+      },
+      {
+        "title": "どうして空気が必要なの？",
+        "caption": "大気は生き物を支えている",
+        "body": [
+          "大気は、人や動物が呼吸するための空気をもたらします。",
+          "大気は、多くの生き物がくらせるように、地球を十分に暖かく保つはたらきをします。",
+          "もう一つ、すごいはたらきがあります。はるか上空では、大気の中のオゾンが、太陽の有害な光の一部から生き物を守るのに役立っています。"
+        ],
+        "label": "話してみよう",
+        "callout": "大気が生き物の役に立っていることを、一つ友だちに伝えましょう。"
+      },
+      {
+        "title": "地球のしくみはつながっている！",
+        "caption": "雨が地球の四つのしくみをつなぐ",
+        "body": [
+          "大気の中で雲ができます。雲から雨が降ります。",
+          "雨は川に水を運び、植物の成長を助けます。また、土や小さな石を動かすこともあります。"
+        ],
+        "label": "四つのしくみ",
+        "callout": "一つの天気の変化が、地球の四つのしくみすべてに影響することがあります。",
+        "chips": [
+          "空気",
+          "水",
+          "陸地",
+          "生き物"
+        ]
+      }
+    ],
+    "toolkitTitle": "科学者の道具箱",
+    "vocabTitle": "覚えておきたい五つの言葉",
+    "vocab": [
+      [
+        "大気（たいき）",
+        "地球を取り囲む空気"
+      ],
+      [
+        "空気（くうき）",
+        "いろいろな気体が混ざったもの"
+      ],
+      [
+        "風（かぜ）",
+        "動いている空気"
+      ],
+      [
+        "雲（くも）",
+        "空気中にある小さな水のつぶや氷"
+      ],
+      [
+        "あらし",
+        "強い風や雨、いなずまなどが発生する天気"
+      ]
+    ],
+    "checkTitle": "わかったことを確かめよう",
+    "questions": [
+      "大気とは何ですか？",
+      "風とは何ですか？",
+      "あらしのときに見えるものを一つ言いましょう。"
+    ],
+    "talkTitle": "科学者のように話そう",
+    "frame": "____ が見えます。それは大気の一部です。",
+    "imageNote": "画像は写真のように描かれたイラストです。実際の科学写真ではありません。"
+  },
+  "ko": {
+    "language": "한국어",
+    "name": "Korean",
+    "coverTitle": "대기",
+    "subtitle": "우리 주변의 보이지 않는 세상",
+    "coverQuestion": "공기가 보이나요?",
+    "coverBody": "위를 보세요. 주변을 둘러보세요. 공기는 어디에나 있어요!",
+    "pages": [
+      {
+        "title": "대기란 무엇일까요?",
+        "caption": "살펴보기: 지구를 둘러싼 푸른빛",
+        "body": [
+          "대기는 담요처럼 지구를 둘러싸고 있는 기체들의 모임이에요. 이 기체들이 모여 공기를 이루어요.",
+          "공기는 대부분 눈에 보이지 않아요. 하지만 공기는 우리 주변 어디에나 있어요. 우리는 매일 공기를 마시며 숨을 쉬어요."
+        ],
+        "label": "놀라운 사실",
+        "callout": "우주에서 보면 지구의 대기가 가느다란 파란 선처럼 보일 때가 있어요."
+      },
+      {
+        "title": "공기를 느낄 수 있나요?",
+        "caption": "바람에 움직이는 바람자루",
+        "body": [
+          "바람은 움직이는 공기예요. 우리는 피부로 바람을 느낄 수 있어요.",
+          "부드럽게 부는 약한 바람을 산들바람이라고 해요. 강한 바람은 나뭇가지를 흔들고 구름을 움직일 수 있어요."
+        ],
+        "label": "보고 생각해요",
+        "callout": "공기가 움직인다는 것을 어떻게 알 수 있나요? 그림에서 한 가지를 찾아 가리켜 보세요."
+      },
+      {
+        "title": "구름은 무엇으로 이루어질까요?",
+        "caption": "작은 물방울이 구름을 만들어요",
+        "body": [
+          "구름은 아주 작은 물방울이나 작은 얼음 알갱이로 이루어져 있어요.",
+          "수증기는 공기 중에서 위로 올라갈 수 있어요. 공기가 차가워지면 작은 물방울이 생겨 구름을 이룰 수 있어요."
+        ],
+        "label": "지구의 영역은 서로 연결돼요",
+        "callout": "구름은 대기에서 만들어져요. 구름 속 물은 수권과도 연결돼요."
+      },
+      {
+        "title": "날씨가 거칠어질 때",
+        "caption": "땅 위에서 발생한 뇌우",
+        "body": [
+          "어떤 구름은 아주 높이 자라면서 어둡게 보여요. 폭풍이 오면 강한 바람, 비, 천둥, 번개가 생길 수 있어요.",
+          "번개는 전기가 밝게 번쩍이는 현상이에요. 천둥은 번개가 친 뒤에 들리는 소리예요."
+        ],
+        "label": "안전을 지켜요",
+        "callout": "천둥소리가 들리면 건물 안으로 들어가세요."
+      },
+      {
+        "title": "공기는 왜 필요할까요?",
+        "caption": "대기는 생명체가 살아가도록 도와요",
+        "body": [
+          "대기는 사람과 동물이 숨 쉴 수 있는 공기를 제공해요.",
+          "대기는 많은 생명체가 살 수 있을 만큼 지구를 따뜻하게 유지하는 데 도움을 주어요.",
+          "또 다른 놀라운 역할도 있어요. 아주 높은 곳에 있는 대기 속 오존은 해로운 햇빛의 일부로부터 생명체를 보호하는 데 도움을 주어요."
+        ],
+        "label": "함께 이야기해요",
+        "callout": "대기가 생명체를 돕는 방법 한 가지를 짝에게 말해 보세요."
+      },
+      {
+        "title": "지구는 서로 연결되어 있어요!",
+        "caption": "비는 지구의 여러 영역을 연결해요",
+        "body": [
+          "대기에서 구름이 만들어져요. 구름에서 비가 내려요.",
+          "비는 강에 물을 더해 주고 식물이 자라도록 도와요. 흙과 작은 돌을 옮길 수도 있어요."
+        ],
+        "label": "지구의 네 영역",
+        "callout": "한 가지 날씨 현상이 지구의 네 영역 모두에 영향을 줄 수 있어요.",
+        "chips": [
+          "공기",
+          "물",
+          "땅",
+          "생명"
+        ]
+      }
+    ],
+    "toolkitTitle": "나의 과학자 도구 상자",
+    "vocabTitle": "기억할 낱말 다섯 가지",
+    "vocab": [
+      [
+        "대기",
+        "지구를 둘러싼 공기"
+      ],
+      [
+        "공기",
+        "여러 기체가 섞인 것"
+      ],
+      [
+        "바람",
+        "움직이는 공기"
+      ],
+      [
+        "구름",
+        "공기 중의 아주 작은 물방울이나 얼음"
+      ],
+      [
+        "폭풍",
+        "강한 바람이나 비, 번개가 나타나는 날씨"
+      ]
+    ],
+    "checkTitle": "이해했는지 확인해요",
+    "questions": [
+      "대기는 무엇인가요?",
+      "바람은 무엇인가요?",
+      "폭풍이 올 때 볼 수 있는 것을 한 가지 말해 보세요."
+    ],
+    "talkTitle": "과학자처럼 말해요",
+    "frame": "____이/가 보여요. 이것은 대기의 일부예요.",
+    "imageNote": "이 자료의 이미지는 사진처럼 그린 삽화이며, 실제 과학 사진이 아닙니다."
+  },
+  "zh": {
+    "language": "简体中文",
+    "name": "Simplified_Chinese",
+    "coverTitle": "大气",
+    "subtitle": "我们周围看不见的世界",
+    "coverQuestion": "你能看见空气吗？",
+    "coverBody": "抬头看看，再看看四周。空气无处不在！",
+    "pages": [
+      {
+        "title": "什么是大气？",
+        "caption": "观察：地球周围的蓝色光晕",
+        "body": [
+          "大气像一条毯子，由包围地球的各种气体组成。这些气体混合在一起，就形成了空气。",
+          "大部分空气是看不见的。但空气就在我们周围。我们每天都呼吸空气。"
+        ],
+        "label": "神奇的事实",
+        "callout": "从太空看，地球的大气有时像一条细细的蓝线。"
+      },
+      {
+        "title": "你能感觉到空气吗？",
+        "caption": "风向袋随风飘动",
+        "body": [
+          "风就是流动的空气。我们可以用皮肤感受到风。",
+          "轻柔的风叫微风。强风可以吹动树枝，也可以推动云朵。"
+        ],
+        "label": "观察并思考",
+        "callout": "你怎么知道空气在流动？请指出图中能说明这一点的一样东西。"
+      },
+      {
+        "title": "云是由什么组成的？",
+        "caption": "小水滴组成了云",
+        "body": [
+          "云是由很小的水滴或小冰晶组成的。",
+          "水蒸气可以上升到空中。当空气变冷时，可能会形成小水滴，聚集成云。"
+        ],
+        "label": "地球各圈层的联系",
+        "callout": "云在大气中形成。云中的水也与水圈相联系。"
+      },
+      {
+        "title": "当天气变得猛烈时",
+        "caption": "陆地上空的雷暴",
+        "body": [
+          "有些云会向上发展得很高，看起来很暗。暴风雨可能带来强风、雨、雷声和闪电。",
+          "闪电是放电时发出的明亮光芒。雷声是我们在闪电之后听到的声音。"
+        ],
+        "label": "注意安全",
+        "callout": "如果听到雷声，就进入建筑物内。"
+      },
+      {
+        "title": "我们为什么需要空气？",
+        "caption": "大气帮助生命生存",
+        "body": [
+          "大气为人和动物提供呼吸所需的空气。",
+          "大气帮助地球保持足够的温暖，让许多生物能够生存。",
+          "大气还有一个神奇的作用：在很高的地方，大气中的臭氧可以阻挡一部分有害的阳光，帮助保护生命。"
+        ],
+        "label": "说一说",
+        "callout": "告诉同伴，大气怎样帮助生命生存。说出一种方式。"
+      },
+      {
+        "title": "地球上的一切相互联系！",
+        "caption": "雨把地球的各个圈层联系起来",
+        "body": [
+          "云在大气中形成。雨从云中落下。",
+          "雨为河流补充水分，帮助植物生长。雨水也能搬运泥土和小石块。"
+        ],
+        "label": "地球的四个圈层",
+        "callout": "一种天气现象就可能影响地球的全部四个圈层。",
+        "chips": [
+          "空气",
+          "水",
+          "陆地",
+          "生命"
+        ]
+      }
+    ],
+    "toolkitTitle": "你的小科学家工具箱",
+    "vocabTitle": "记住这五个词",
+    "vocab": [
+      [
+        "大气",
+        "包围地球的空气"
+      ],
+      [
+        "空气",
+        "多种气体的混合物"
+      ],
+      [
+        "风",
+        "流动的空气"
+      ],
+      [
+        "云",
+        "空气中的小水滴或冰晶"
+      ],
+      [
+        "暴风雨",
+        "伴有强风、雨或闪电的天气"
+      ]
+    ],
+    "checkTitle": "检查你的理解",
+    "questions": [
+      "什么是大气？",
+      "什么是风？",
+      "说出一样你在暴风雨中能看到的东西。"
+    ],
+    "talkTitle": "像科学家一样表达",
+    "frame": "我看到了____。它是大气的一部分。",
+    "imageNote": "本读本中的图片是逼真插画，并非真实的科学照片。"
+  }
+}

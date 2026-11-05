@@ -1,0 +1,462 @@
+{
+  "en": {
+    "language": "ENGLISH",
+    "toolkitTitle": "Your Scientist Toolkit",
+    "vocabTitle": "5 WORDS TO REMEMBER",
+    "checkTitle": "CHECK YOUR UNDERSTANDING",
+    "talkTitle": "TALK LIKE A SCIENTIST",
+    "imageNote": "The images are photorealistic illustrations, not authentic scientific photographs.",
+    "coverTitle": "THE HYDROSPHERE",
+    "subtitle": "Water Everywhere on Earth",
+    "coverQuestion": "Where can we find water?",
+    "coverBody": "Look at rivers, lakes, ice, and oceans. Water is all around us!",
+    "pages": [
+      {
+        "title": "What Is the Hydrosphere?",
+        "caption": "LOOK: water on Earth",
+        "body": [
+          "The hydrosphere is all the water on Earth. Water can be liquid, solid ice, or water vapor in the air.",
+          "We can find water in oceans, lakes, rivers, streams, and even under the ground."
+        ],
+        "label": "AMAZING FACT",
+        "callout": "Most of Earth's surface is covered by water."
+      },
+      {
+        "title": "Water Can Move",
+        "caption": "A river carries water",
+        "body": [
+          "Rivers and streams move water across the land. Water can flow fast or slow.",
+          "Moving water can shape the land. It can carry soil and tiny pieces of rock."
+        ],
+        "label": "LOOK + THINK",
+        "callout": "What clues show that the water is moving?"
+      },
+      {
+        "title": "Ice Is Water, Too",
+        "caption": "A glacier is frozen water",
+        "body": [
+          "Glaciers are large bodies of ice. Snow and ice are part of the hydrosphere.",
+          "Frozen water can stay on mountains and in very cold places for a long time."
+        ],
+        "label": "SPHERE CONNECTION",
+        "callout": "A glacier may sit on land in the geosphere, but the ice itself is part of the hydrosphere."
+      },
+      {
+        "title": "Why Is Water Important?",
+        "caption": "Water helps life on Earth",
+        "body": [
+          "People, animals, and plants all need water to live. Water helps keep living things alive.",
+          "Water also moves heat around Earth and helps shape weather."
+        ],
+        "label": "THE HYDROSPHERE HELPS LIFE",
+        "callout": "Another amazing job: Water can change form. It can freeze, melt, and evaporate."
+      },
+      {
+        "title": "Water Is Always Traveling",
+        "caption": "Water moves in a cycle",
+        "body": [
+          "Water can rise into the air, form clouds, and fall as rain or snow.",
+          "Then water can flow through rivers and streams back to lakes and oceans."
+        ],
+        "label": "WATER CYCLE",
+        "diagram": [
+          "Evaporation: water rises.",
+          "Clouds: form in the air.",
+          "Rain falls.",
+          "Snow and ice.",
+          "River flows to the ocean."
+        ]
+      },
+      {
+        "title": "Earth Is Connected!",
+        "caption": "Water links the spheres",
+        "body": [
+          "Rain falls from the atmosphere. Water flows over land in the geosphere.",
+          "It helps plants and animals in the biosphere. One kind of water can connect many parts of Earth."
+        ],
+        "label": "FOUR SPHERES",
+        "callout": "Water is part of many Earth systems at the same time.",
+        "chips": [
+          "AIR",
+          "WATER",
+          "LAND",
+          "LIFE"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "hydrosphere",
+        "all the water on Earth"
+      ],
+      [
+        "ocean",
+        "a very large body of salt water"
+      ],
+      [
+        "river",
+        "water that flows across land"
+      ],
+      [
+        "glacier",
+        "a large body of ice"
+      ],
+      [
+        "water vapor",
+        "water in the air as a gas"
+      ]
+    ],
+    "questions": [
+      "What is the hydrosphere?",
+      "Name two places where we find water.",
+      "Is ice part of the hydrosphere? Why?"
+    ],
+    "frame": "I see ____. It is part of the hydrosphere.",
+    "source": "Science review sources in original: USGS Water Science School; NOAA Education; NASA Earth Observatory."
+  },
+  "ja": {
+    "language": "日本語",
+    "name": "Japanese",
+    "toolkitTitle": "科学者の道具箱",
+    "vocabTitle": "覚えておきたい五つの言葉",
+    "checkTitle": "わかったことを確かめよう",
+    "talkTitle": "科学者のように話そう",
+    "imageNote": "画像は写真のように描かれたイラストです。実際の科学写真ではありません。",
+    "coverTitle": "水圏（すいけん）",
+    "subtitle": "地球のあちこちにある水",
+    "coverQuestion": "水はどこにあるの？",
+    "coverBody": "川、湖、氷、海を見てみよう。水はわたしたちのまわりにあります！",
+    "pages": [
+      {
+        "title": "水圏（すいけん）って何？",
+        "caption": "見てみよう：地球の水",
+        "body": [
+          "水圏は、地球上のすべての水のことです。水には、液体の水、固体の氷、空気中の水蒸気（すいじょうき）というすがたがあります。",
+          "海、湖、川、小川、そして地面の下にも、水があります。"
+        ],
+        "label": "びっくりする事実",
+        "callout": "地球の表面の大部分は、水でおおわれています。"
+      },
+      {
+        "title": "水は動く",
+        "caption": "川は水を運ぶ",
+        "body": [
+          "川や小川は、陸地を通って水を運びます。水は、速く流れることも、ゆっくり流れることもあります。",
+          "流れる水は、地形を変えることがあります。土や小さな岩のかけらを運ぶことができるからです。"
+        ],
+        "label": "見て、考えよう",
+        "callout": "水が動いていることがわかる手がかりは、何ですか？"
+      },
+      {
+        "title": "氷も水のなかま",
+        "caption": "氷河（ひょうが）は、こおった水",
+        "body": [
+          "氷河は、大きな氷のかたまりです。雪や氷も水圏の一部です。",
+          "こおった水は、山やとても寒い場所に、長い間とどまることがあります。"
+        ],
+        "label": "地球のしくみのつながり",
+        "callout": "氷河は地圏（ちけん）の陸地の上にあることがありますが、氷そのものは水圏の一部です。"
+      },
+      {
+        "title": "水はどうして大切なの？",
+        "caption": "水は地球の生き物を支える",
+        "body": [
+          "人、動物、植物は、みんな生きるために水を必要とします。水は、生き物の命を支えます。",
+          "水は、地球のあちこちに熱を運び、天気にも影響します。"
+        ],
+        "label": "水圏は命を支えている",
+        "callout": "もう一つ、すごいはたらきがあります。水はすがたを変えます。こおったり、とけたり、蒸発（じょうはつ）したりします。"
+      },
+      {
+        "title": "水はいつも旅をしている",
+        "caption": "水はめぐっている",
+        "body": [
+          "水は空気中へ上がり、雲をつくり、雨や雪となって降ることがあります。",
+          "そのあと、水は川や小川を流れ、湖や海へもどることがあります。"
+        ],
+        "label": "水の循環（じゅんかん）",
+        "diagram": [
+          "蒸発（じょうはつ）：水が水蒸気になって上がる。",
+          "雲：空気中にできる。",
+          "雨が降る。",
+          "雪と氷。",
+          "川が海へ流れる。"
+        ]
+      },
+      {
+        "title": "地球のしくみはつながっている！",
+        "caption": "水は地球のしくみをつなぐ",
+        "body": [
+          "大気（たいき）から雨が降ります。水は、地圏の陸地の上を流れます。",
+          "水は、生物圏（せいぶつけん）の植物や動物を助けます。同じ水が、地球のいろいろな部分をつなぐことがあります。"
+        ],
+        "label": "四つのしくみ",
+        "callout": "水は同時に、地球のいくつものしくみにかかわっています。",
+        "chips": [
+          "空気",
+          "水",
+          "陸地",
+          "生き物"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "水圏（すいけん）",
+        "地球上のすべての水"
+      ],
+      [
+        "海（うみ）",
+        "塩分のある水が広く集まったところ"
+      ],
+      [
+        "川（かわ）",
+        "陸地を通って流れる水"
+      ],
+      [
+        "氷河（ひょうが）",
+        "大きな氷のかたまり"
+      ],
+      [
+        "水蒸気（すいじょうき）",
+        "空気中にある、気体になった水"
+      ]
+    ],
+    "questions": [
+      "水圏とは何ですか？",
+      "水がある場所を二つ言いましょう。",
+      "氷は水圏の一部ですか？ なぜですか？"
+    ],
+    "frame": "____ が見えます。それは水圏の一部です。"
+  },
+  "ko": {
+    "language": "한국어",
+    "name": "Korean",
+    "toolkitTitle": "나의 과학자 도구 상자",
+    "vocabTitle": "기억할 낱말 다섯 가지",
+    "checkTitle": "이해했는지 확인해요",
+    "talkTitle": "과학자처럼 말해요",
+    "imageNote": "이 자료의 이미지는 사진처럼 그린 삽화이며, 실제 과학 사진이 아닙니다.",
+    "coverTitle": "수권",
+    "subtitle": "지구 곳곳에 있는 물",
+    "coverQuestion": "물은 어디에서 찾을 수 있나요?",
+    "coverBody": "강, 호수, 얼음, 바다를 살펴보세요. 물은 우리 주변 어디에나 있어요!",
+    "pages": [
+      {
+        "title": "수권이란 무엇일까요?",
+        "caption": "살펴보기: 지구의 물",
+        "body": [
+          "수권은 지구에 있는 모든 물이에요. 물은 액체일 수도 있고, 고체인 얼음이나 공기 중의 수증기일 수도 있어요.",
+          "바다, 호수, 강, 시냇물, 심지어 땅속에서도 물을 찾을 수 있어요."
+        ],
+        "label": "놀라운 사실",
+        "callout": "지구 표면의 대부분은 물로 덮여 있어요."
+      },
+      {
+        "title": "물은 움직일 수 있어요",
+        "caption": "강은 물을 운반해요",
+        "body": [
+          "강과 시냇물은 땅을 가로질러 물을 운반해요. 물은 빠르게 또는 느리게 흐를 수 있어요.",
+          "흐르는 물은 땅의 모양을 바꿀 수 있어요. 흙과 아주 작은 암석 조각도 옮길 수 있어요."
+        ],
+        "label": "보고 생각해요",
+        "callout": "어떤 단서를 보면 물이 움직이고 있다는 것을 알 수 있나요?"
+      },
+      {
+        "title": "얼음도 물이에요",
+        "caption": "빙하는 얼어 있는 물이에요",
+        "body": [
+          "빙하는 커다란 얼음 덩어리예요. 눈과 얼음은 수권의 일부예요.",
+          "얼어 있는 물은 산이나 아주 추운 곳에 오랫동안 남아 있을 수 있어요."
+        ],
+        "label": "지구의 영역은 서로 연결돼요",
+        "callout": "빙하는 지권의 땅 위에 있을 수 있지만, 얼음 자체는 수권의 일부예요."
+      },
+      {
+        "title": "물은 왜 중요할까요?",
+        "caption": "물은 지구의 생명체를 도와요",
+        "body": [
+          "사람, 동물, 식물은 모두 살아가기 위해 물이 필요해요. 물은 생명체가 살아 있도록 도와요.",
+          "물은 지구 곳곳으로 열을 옮기고 날씨에도 영향을 주어요."
+        ],
+        "label": "수권은 생명체를 도와요",
+        "callout": "또 다른 놀라운 역할도 있어요. 물은 상태가 변할 수 있어요. 얼거나 녹거나 증발할 수 있어요."
+      },
+      {
+        "title": "물은 언제나 여행 중이에요",
+        "caption": "물은 순환해요",
+        "body": [
+          "물은 공기 중으로 올라가 구름을 만들고, 비나 눈이 되어 내릴 수 있어요.",
+          "그런 다음 강과 시냇물을 따라 흘러 호수와 바다로 돌아갈 수 있어요."
+        ],
+        "label": "물의 순환",
+        "diagram": [
+          "증발: 물이 위로 올라가요.",
+          "구름: 공기 중에서 만들어져요.",
+          "비가 내려요.",
+          "눈과 얼음이에요.",
+          "강이 바다로 흘러가요."
+        ]
+      },
+      {
+        "title": "지구는 서로 연결되어 있어요!",
+        "caption": "물은 지구의 여러 영역을 연결해요",
+        "body": [
+          "대기에서 비가 내려요. 물은 지권의 땅 위로 흘러가요.",
+          "물은 생물권의 식물과 동물을 도와요. 같은 물이 지구의 여러 부분을 연결할 수 있어요."
+        ],
+        "label": "지구의 네 영역",
+        "callout": "물은 동시에 지구의 여러 시스템에 관여해요.",
+        "chips": [
+          "공기",
+          "물",
+          "땅",
+          "생명"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "수권",
+        "지구에 있는 모든 물"
+      ],
+      [
+        "바다",
+        "소금기가 있는 물이 아주 넓게 모인 곳"
+      ],
+      [
+        "강",
+        "땅을 가로질러 흐르는 물"
+      ],
+      [
+        "빙하",
+        "커다란 얼음 덩어리"
+      ],
+      [
+        "수증기",
+        "공기 중에 기체 상태로 있는 물"
+      ]
+    ],
+    "questions": [
+      "수권은 무엇인가요?",
+      "물을 찾을 수 있는 곳을 두 군데 말해 보세요.",
+      "얼음은 수권의 일부인가요? 왜 그런가요?"
+    ],
+    "frame": "____이/가 보여요. 이것은 수권의 일부예요."
+  },
+  "zh": {
+    "language": "简体中文",
+    "name": "Simplified_Chinese",
+    "toolkitTitle": "你的小科学家工具箱",
+    "vocabTitle": "记住这五个词",
+    "checkTitle": "检查你的理解",
+    "talkTitle": "像科学家一样表达",
+    "imageNote": "本读本中的图片是逼真插画，并非真实的科学照片。",
+    "coverTitle": "水圈",
+    "subtitle": "地球上无处不在的水",
+    "coverQuestion": "我们在哪里能找到水？",
+    "coverBody": "看看河流、湖泊、冰和海洋。水就在我们周围！",
+    "pages": [
+      {
+        "title": "什么是水圈？",
+        "caption": "观察：地球上的水",
+        "body": [
+          "水圈是地球上所有的水。水可以是液态的水、固态的冰，也可以是空气中的水蒸气。",
+          "我们可以在海洋、湖泊、河流、小溪，甚至地下找到水。"
+        ],
+        "label": "神奇的事实",
+        "callout": "地球表面的大部分都被水覆盖。"
+      },
+      {
+        "title": "水会流动",
+        "caption": "河流运送着水",
+        "body": [
+          "河流和小溪使水流过陆地。水可以流得很快，也可以流得很慢。",
+          "流动的水可以塑造陆地。它能搬运土壤和微小的岩石碎块。"
+        ],
+        "label": "观察并思考",
+        "callout": "哪些线索能说明水正在流动？"
+      },
+      {
+        "title": "冰也是水",
+        "caption": "冰川是冻结的水",
+        "body": [
+          "冰川是巨大的冰体。雪和冰都是水圈的一部分。",
+          "冻结的水可以在山上和非常寒冷的地方保存很长时间。"
+        ],
+        "label": "地球各圈层的联系",
+        "callout": "冰川可能位于地圈的陆地上，但冰本身属于水圈。"
+      },
+      {
+        "title": "水为什么重要？",
+        "caption": "水帮助地球上的生命生存",
+        "body": [
+          "人类、动物和植物都需要水才能生存。水维持着生物的生命。",
+          "水还在地球各处传递热量，并影响天气。"
+        ],
+        "label": "水圈帮助生命生存",
+        "callout": "水还有一个神奇的作用：它可以改变形态，可以结冰、融化和蒸发。"
+      },
+      {
+        "title": "水一直在旅行",
+        "caption": "水在不断循环",
+        "body": [
+          "水可以上升到空中，形成云，再以雨或雪的形式落下。",
+          "随后，水可以沿着河流和小溪，回到湖泊和海洋。"
+        ],
+        "label": "水循环",
+        "diagram": [
+          "蒸发：水向上升。",
+          "云：在空气中形成。",
+          "雨落下来。",
+          "雪和冰。",
+          "河流流向海洋。"
+        ]
+      },
+      {
+        "title": "地球上的一切相互联系！",
+        "caption": "水把各个圈层联系起来",
+        "body": [
+          "雨从大气中落下。水流过地圈中的陆地。",
+          "水帮助生物圈中的植物和动物。同样的水可以把地球的许多部分联系起来。"
+        ],
+        "label": "地球的四个圈层",
+        "callout": "水同时参与地球的许多系统。",
+        "chips": [
+          "空气",
+          "水",
+          "陆地",
+          "生命"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "水圈",
+        "地球上所有的水"
+      ],
+      [
+        "海洋",
+        "面积非常大的咸水水体"
+      ],
+      [
+        "河流",
+        "流过陆地的水流"
+      ],
+      [
+        "冰川",
+        "巨大的冰体"
+      ],
+      [
+        "水蒸气",
+        "空气中呈气态的水"
+      ]
+    ],
+    "questions": [
+      "什么是水圈？",
+      "说出两个能找到水的地方。",
+      "冰是水圈的一部分吗？为什么？"
+    ],
+    "frame": "我看到了____。它是水圈的一部分。"
+  }
+}

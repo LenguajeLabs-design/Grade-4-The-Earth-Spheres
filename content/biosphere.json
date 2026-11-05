@@ -1,0 +1,458 @@
+{
+  "en": {
+    "language": "ENGLISH",
+    "toolkitTitle": "Your Scientist Toolkit",
+    "vocabTitle": "5 WORDS TO REMEMBER",
+    "checkTitle": "CHECK YOUR UNDERSTANDING",
+    "talkTitle": "TALK LIKE A SCIENTIST",
+    "imageNote": "The images are photorealistic illustrations, not authentic scientific photographs.",
+    "coverTitle": "THE BIOSPHERE",
+    "subtitle": "Earth's Living World",
+    "coverQuestion": "What is alive on Earth?",
+    "coverBody": "Look at forests, animals, insects, and people. The biosphere is full of life!",
+    "pages": [
+      {
+        "title": "What Is the Biosphere?",
+        "caption": "LOOK: a living habitat",
+        "body": [
+          "The biosphere includes all living things on Earth. Plants, animals, people, and tiny living things are all part of it.",
+          "Living things live in many habitats, such as forests, oceans, deserts, and grasslands."
+        ],
+        "label": "AMAZING FACT",
+        "callout": "The biosphere is found almost everywhere on Earth where life can survive."
+      },
+      {
+        "title": "Plants Are Living Things",
+        "caption": "Plants grow in the biosphere",
+        "body": [
+          "Plants are part of the biosphere. They make food and provide homes for many animals.",
+          "A plant needs water, air, sunlight, and soil to grow well."
+        ],
+        "label": "LOOK + THINK",
+        "callout": "What signs of life do you see in the forest?"
+      },
+      {
+        "title": "Animals Are Living Things",
+        "caption": "A deer is an animal",
+        "body": [
+          "Animals are part of the biosphere. They need food, water, air, and shelter.",
+          "Some animals live on land. Others live in water or in the air."
+        ],
+        "label": "SPHERE CONNECTION",
+        "callout": "A deer is in the biosphere. It depends on water, air, and land to live."
+      },
+      {
+        "title": "People Are Part of Nature",
+        "caption": "People explore and learn",
+        "body": [
+          "Humans are living things, so people are part of the biosphere, too.",
+          "People observe nature, care for habitats, and learn from Earth's systems."
+        ],
+        "label": "THE BIOSPHERE SUPPORTS LIFE",
+        "callout": "Another amazing job: Insects like butterflies help some plants make seeds by moving pollen."
+      },
+      {
+        "title": "Living Things Need Other Spheres",
+        "caption": "A tree needs air, water, and soil",
+        "body": [
+          "A tree grows in soil from the geosphere. Its roots take in water from the hydrosphere.",
+          "Its leaves use gases from the atmosphere. The tree itself is part of the biosphere."
+        ],
+        "label": "LIFE IS CONNECTED",
+        "diagram": [
+          "Hydrosphere: water helps plants grow.",
+          "Biosphere: living things include plants, animals and people.",
+          "Atmosphere: plants use gases in the air.",
+          "Geosphere: roots grow in soil."
+        ]
+      },
+      {
+        "title": "Earth Is Connected!",
+        "caption": "Living things need many systems",
+        "body": [
+          "Every living thing depends on other parts of Earth. A forest needs water, air, and healthy soil.",
+          "Animals and people also need all three. Life connects the spheres together."
+        ],
+        "label": "FOUR SPHERES",
+        "callout": "Living things survive because Earth's spheres work together.",
+        "chips": [
+          "AIR",
+          "WATER",
+          "LAND",
+          "LIFE"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "biosphere",
+        "all the living things on Earth"
+      ],
+      [
+        "habitat",
+        "a place where a living thing lives"
+      ],
+      [
+        "plant",
+        "a living thing that grows in soil or water"
+      ],
+      [
+        "animal",
+        "a living thing that eats food"
+      ],
+      [
+        "roots",
+        "parts of a plant that take in water"
+      ]
+    ],
+    "questions": [
+      "What is the biosphere?",
+      "Name three living things.",
+      "What does a tree need to live?"
+    ],
+    "frame": "A ____ is part of the biosphere.",
+    "source": "Science review sources in original: USGS Ecosystems Mission Area; NASA Earth Observatory; National Geographic Kids reference topics."
+  },
+  "ja": {
+    "language": "日本語",
+    "name": "Japanese",
+    "toolkitTitle": "科学者の道具箱",
+    "vocabTitle": "覚えておきたい五つの言葉",
+    "checkTitle": "わかったことを確かめよう",
+    "talkTitle": "科学者のように話そう",
+    "imageNote": "画像は写真のように描かれたイラストです。実際の科学写真ではありません。",
+    "coverTitle": "生物圏（せいぶつけん）",
+    "subtitle": "地球の生き物の世界",
+    "coverQuestion": "地球には、どんな生き物がいるの？",
+    "coverBody": "森、動物、昆虫、そして人を見てみよう。生物圏は命でいっぱいです！",
+    "pages": [
+      {
+        "title": "生物圏（せいぶつけん）って何？",
+        "caption": "見てみよう：生き物がくらす場所",
+        "body": [
+          "生物圏には、地球上のすべての生き物がふくまれます。植物、動物、人、そしてとても小さな生き物も、その一部です。",
+          "生き物は、森、海、砂漠、草原など、いろいろな場所にくらしています。生き物がくらす場所を「すみか」といいます。"
+        ],
+        "label": "びっくりする事実",
+        "callout": "生物圏は、地球上で生き物が生きられるほとんどすべての場所に広がっています。"
+      },
+      {
+        "title": "植物は生き物",
+        "caption": "植物は生物圏で育つ",
+        "body": [
+          "植物は生物圏の一部です。植物は養分（ようぶん）をつくり、多くの動物にすみかを与えます。",
+          "植物が元気に育つには、水、空気、日光、土が必要です。"
+        ],
+        "label": "見て、考えよう",
+        "callout": "森の中で、生きていることがわかる手がかりを見つけられますか？"
+      },
+      {
+        "title": "動物は生き物",
+        "caption": "シカは動物のなかま",
+        "body": [
+          "動物は生物圏の一部です。食べ物、水、空気、そして身を守る場所が必要です。",
+          "陸にくらす動物もいれば、水の中や空で生活する動物もいます。"
+        ],
+        "label": "地球のしくみのつながり",
+        "callout": "シカは生物圏の一部です。生きるために、水、空気、陸地を必要としています。"
+      },
+      {
+        "title": "人も自然の一部",
+        "caption": "人は探検し、学ぶ",
+        "body": [
+          "人間は生き物なので、人も生物圏の一部です。",
+          "人は自然を観察し、生き物のすみかを大切にし、地球のしくみから学びます。"
+        ],
+        "label": "生物圏は命を支えている",
+        "callout": "もう一つ、すごいはたらきがあります。チョウなどの昆虫は花粉を運び、一部の植物が種をつくるのを助けます。"
+      },
+      {
+        "title": "生き物はほかのしくみも必要とする",
+        "caption": "木には空気、水、土が必要",
+        "body": [
+          "木は地圏（ちけん）の土で育ちます。根は、水圏（すいけん）の水を取りこみます。",
+          "葉は、大気（たいき）にある気体を使います。木そのものは、生物圏の一部です。"
+        ],
+        "label": "命はつながっている",
+        "diagram": [
+          "水圏（すいけん）：水は植物の成長を助ける。",
+          "生物圏（せいぶつけん）：植物、動物、人などの生き物。",
+          "大気（たいき）：植物は空気中の気体を使う。",
+          "地圏（ちけん）：根は土の中で育つ。"
+        ]
+      },
+      {
+        "title": "地球のしくみはつながっている！",
+        "caption": "生き物には多くのしくみが必要",
+        "body": [
+          "どの生き物も、地球のほかの部分に支えられています。森には、水、空気、そしてよい土が必要です。",
+          "動物や人も、この三つすべてを必要としています。生き物は、地球のしくみをつなぎます。"
+        ],
+        "label": "四つのしくみ",
+        "callout": "地球の四つのしくみがいっしょにはたらくことで、生き物は生きられます。",
+        "chips": [
+          "空気",
+          "水",
+          "陸地",
+          "生き物"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "生物圏（せいぶつけん）",
+        "地球上のすべての生き物"
+      ],
+      [
+        "すみか",
+        "生き物がくらす場所"
+      ],
+      [
+        "植物（しょくぶつ）",
+        "土や水の中で育つ生き物"
+      ],
+      [
+        "動物（どうぶつ）",
+        "食べ物を食べる生き物"
+      ],
+      [
+        "根（ね）",
+        "水を取りこむ、植物の部分"
+      ]
+    ],
+    "questions": [
+      "生物圏とは何ですか？",
+      "生き物を三つ言いましょう。",
+      "木が生きるためには何が必要ですか？"
+    ],
+    "frame": "____ は生物圏の一部です。"
+  },
+  "ko": {
+    "language": "한국어",
+    "name": "Korean",
+    "toolkitTitle": "나의 과학자 도구 상자",
+    "vocabTitle": "기억할 낱말 다섯 가지",
+    "checkTitle": "이해했는지 확인해요",
+    "talkTitle": "과학자처럼 말해요",
+    "imageNote": "이 자료의 이미지는 사진처럼 그린 삽화이며, 실제 과학 사진이 아닙니다.",
+    "coverTitle": "생물권",
+    "subtitle": "지구의 살아 있는 세계",
+    "coverQuestion": "지구에는 어떤 생명체가 살까요?",
+    "coverBody": "숲, 동물, 곤충, 사람을 살펴보세요. 생물권은 생명으로 가득해요!",
+    "pages": [
+      {
+        "title": "생물권이란 무엇일까요?",
+        "caption": "살펴보기: 생명체가 사는 서식지",
+        "body": [
+          "생물권에는 지구의 모든 생명체가 포함돼요. 식물, 동물, 사람, 아주 작은 생명체도 모두 생물권의 일부예요.",
+          "생명체는 숲, 바다, 사막, 초원 등 여러 서식지에서 살아요."
+        ],
+        "label": "놀라운 사실",
+        "callout": "생명체가 살아갈 수 있는 지구의 거의 모든 곳에서 생물권을 찾을 수 있어요."
+      },
+      {
+        "title": "식물은 생명체예요",
+        "caption": "식물은 생물권에서 자라요",
+        "body": [
+          "식물은 생물권의 일부예요. 식물은 양분을 만들고 많은 동물에게 보금자리를 제공해요.",
+          "식물이 잘 자라려면 물, 공기, 햇빛, 흙이 필요해요."
+        ],
+        "label": "보고 생각해요",
+        "callout": "숲에서 생명체가 살아 있다는 것을 보여 주는 어떤 단서를 찾을 수 있나요?"
+      },
+      {
+        "title": "동물은 생명체예요",
+        "caption": "사슴은 동물이에요",
+        "body": [
+          "동물은 생물권의 일부예요. 동물에게는 먹이, 물, 공기, 몸을 보호할 곳이 필요해요.",
+          "어떤 동물은 땅에서 살아요. 다른 동물은 물속이나 공중에서 생활해요."
+        ],
+        "label": "지구의 영역은 서로 연결돼요",
+        "callout": "사슴은 생물권에 속해요. 사슴은 살아가기 위해 물, 공기, 땅에 의존해요."
+      },
+      {
+        "title": "사람도 자연의 일부예요",
+        "caption": "사람은 탐구하고 배워요",
+        "body": [
+          "사람은 생명체이므로 생물권의 일부이기도 해요.",
+          "사람은 자연을 관찰하고, 서식지를 돌보며, 지구의 여러 시스템에서 배워요."
+        ],
+        "label": "생물권은 생명을 지탱해요",
+        "callout": "또 다른 놀라운 역할도 있어요. 나비 같은 곤충은 꽃가루를 옮겨 일부 식물이 씨앗을 만드는 것을 도와요."
+      },
+      {
+        "title": "생명체는 다른 영역도 필요해요",
+        "caption": "나무에는 공기, 물, 흙이 필요해요",
+        "body": [
+          "나무는 지권의 흙에서 자라요. 뿌리는 수권에서 물을 흡수해요.",
+          "잎은 대기에 있는 기체를 사용해요. 나무 자체는 생물권의 일부예요."
+        ],
+        "label": "생명은 서로 연결돼요",
+        "diagram": [
+          "수권: 물은 식물이 자라도록 도와요.",
+          "생물권: 식물, 동물, 사람 등 모든 생명체가 포함돼요.",
+          "대기: 식물은 공기 중의 기체를 사용해요.",
+          "지권: 뿌리는 흙에서 자라요."
+        ]
+      },
+      {
+        "title": "지구는 서로 연결되어 있어요!",
+        "caption": "생명체에는 여러 시스템이 필요해요",
+        "body": [
+          "모든 생명체는 지구의 다른 부분에 의존해요. 숲에는 물, 공기, 건강한 흙이 필요해요.",
+          "동물과 사람에게도 이 세 가지가 모두 필요해요. 생명체는 지구의 여러 영역을 서로 연결해요."
+        ],
+        "label": "지구의 네 영역",
+        "callout": "지구의 여러 영역이 함께 작용하기 때문에 생명체가 살아갈 수 있어요.",
+        "chips": [
+          "공기",
+          "물",
+          "땅",
+          "생명"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "생물권",
+        "지구의 모든 생명체"
+      ],
+      [
+        "서식지",
+        "생명체가 살아가는 곳"
+      ],
+      [
+        "식물",
+        "흙이나 물에서 자라는 생명체"
+      ],
+      [
+        "동물",
+        "먹이를 먹는 생명체"
+      ],
+      [
+        "뿌리",
+        "물을 흡수하는 식물의 부분"
+      ]
+    ],
+    "questions": [
+      "생물권은 무엇인가요?",
+      "생명체를 세 가지 말해 보세요.",
+      "나무가 살아가려면 무엇이 필요한가요?"
+    ],
+    "frame": "____은/는 생물권의 일부예요."
+  },
+  "zh": {
+    "language": "简体中文",
+    "name": "Simplified_Chinese",
+    "toolkitTitle": "你的小科学家工具箱",
+    "vocabTitle": "记住这五个词",
+    "checkTitle": "检查你的理解",
+    "talkTitle": "像科学家一样表达",
+    "imageNote": "本读本中的图片是逼真插画，并非真实的科学照片。",
+    "coverTitle": "生物圈",
+    "subtitle": "地球上的生命世界",
+    "coverQuestion": "地球上有哪些生物？",
+    "coverBody": "看看森林、动物、昆虫和人类。生物圈充满了生命！",
+    "pages": [
+      {
+        "title": "什么是生物圈？",
+        "caption": "观察：生物生活的栖息地",
+        "body": [
+          "生物圈包括地球上所有的生物。植物、动物、人类和微小的生物都是生物圈的一部分。",
+          "生物生活在各种栖息地中，例如森林、海洋、沙漠和草原。"
+        ],
+        "label": "神奇的事实",
+        "callout": "地球上几乎所有能让生命生存的地方，都属于生物圈。"
+      },
+      {
+        "title": "植物是生物",
+        "caption": "植物在生物圈中生长",
+        "body": [
+          "植物是生物圈的一部分。植物制造养分，也为许多动物提供家园。",
+          "植物要健康生长，需要水、空气、阳光和土壤。"
+        ],
+        "label": "观察并思考",
+        "callout": "在森林中，你看到了哪些能说明生命活动的迹象？"
+      },
+      {
+        "title": "动物是生物",
+        "caption": "鹿是一种动物",
+        "body": [
+          "动物是生物圈的一部分。它们需要食物、水、空气和躲避危险的地方。",
+          "有些动物生活在陆地上，有些在水中生活，还有些在空中活动。"
+        ],
+        "label": "地球各圈层的联系",
+        "callout": "鹿属于生物圈。它依靠水、空气和陆地生存。"
+      },
+      {
+        "title": "人类也是自然的一部分",
+        "caption": "人类探索并学习",
+        "body": [
+          "人类是生物，所以人类也是生物圈的一部分。",
+          "人们观察自然，保护栖息地，并从地球的各个系统中学习。"
+        ],
+        "label": "生物圈支持生命",
+        "callout": "生物圈还有一个神奇的作用：蝴蝶等昆虫通过搬运花粉，帮助一些植物结出种子。"
+      },
+      {
+        "title": "生物也需要其他圈层",
+        "caption": "树需要空气、水和土壤",
+        "body": [
+          "树生长在地圈的土壤中。树根吸收来自水圈的水。",
+          "树叶利用大气中的气体。树本身是生物圈的一部分。"
+        ],
+        "label": "生命相互联系",
+        "diagram": [
+          "水圈：水帮助植物生长。",
+          "生物圈：生物包括植物、动物和人类。",
+          "大气：植物利用空气中的气体。",
+          "地圈：树根在土壤中生长。"
+        ]
+      },
+      {
+        "title": "地球上的一切相互联系！",
+        "caption": "生物需要许多系统的支持",
+        "body": [
+          "每一种生物都依赖地球的其他部分。森林需要水、空气和健康的土壤。",
+          "动物和人类也需要这三样东西。生命把地球的各个圈层联系在一起。"
+        ],
+        "label": "地球的四个圈层",
+        "callout": "地球的各个圈层共同作用，生物才能生存。",
+        "chips": [
+          "空气",
+          "水",
+          "陆地",
+          "生命"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "生物圈",
+        "地球上所有的生物"
+      ],
+      [
+        "栖息地",
+        "生物生活的地方"
+      ],
+      [
+        "植物",
+        "在土壤或水中生长的生物"
+      ],
+      [
+        "动物",
+        "吃食物的生物"
+      ],
+      [
+        "根",
+        "植物吸收水分的部分"
+      ]
+    ],
+    "questions": [
+      "什么是生物圈？",
+      "说出三种生物。",
+      "树需要什么才能生存？"
+    ],
+    "frame": "____是生物圈的一部分。"
+  }
+}

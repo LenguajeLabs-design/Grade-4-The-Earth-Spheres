@@ -1,0 +1,458 @@
+{
+  "en": {
+    "language": "ENGLISH",
+    "toolkitTitle": "Your Scientist Toolkit",
+    "vocabTitle": "5 WORDS TO REMEMBER",
+    "checkTitle": "CHECK YOUR UNDERSTANDING",
+    "talkTitle": "TALK LIKE A SCIENTIST",
+    "imageNote": "The images are photorealistic illustrations, not authentic scientific photographs.",
+    "coverTitle": "THE GEOSPHERE",
+    "subtitle": "The Ground Beneath Our Feet",
+    "coverQuestion": "Can land and rock change?",
+    "coverBody": "Look at mountains, canyons, soil, and volcanoes. Earth's surface is always changing!",
+    "pages": [
+      {
+        "title": "What Is the Geosphere?",
+        "caption": "LOOK: land, rock, and mountains",
+        "body": [
+          "The geosphere includes Earth's rocks, soil, mountains, and land.",
+          "The geosphere also includes the rock deep inside Earth."
+        ],
+        "label": "AMAZING FACT",
+        "callout": "Some mountains are very high, but they are all made of rock from the geosphere."
+      },
+      {
+        "title": "Rocks and Soil",
+        "caption": "Soil and rock layers",
+        "body": [
+          "Soil is part of the geosphere. Many plants grow in soil, and many animals live in or on it.",
+          "Rock can be big like a cliff or small like a pebble."
+        ],
+        "label": "LOOK + THINK",
+        "callout": "What do you notice in the soil layers and stones?"
+      },
+      {
+        "title": "Inside Earth Is Very Hot",
+        "caption": "A volcano erupts hot rock",
+        "body": [
+          "Magma is melted rock beneath Earth's surface. When magma reaches the surface, it is called lava.",
+          "Volcanoes are part of the geosphere. During an eruption, hot lava can flow over the land."
+        ],
+        "label": "SPHERE CONNECTION",
+        "callout": "A volcano is geosphere, but the smoke and ash also affect the atmosphere."
+      },
+      {
+        "title": "Rocks Can Change",
+        "caption": "Water shapes the land",
+        "body": [
+          "Weathering breaks rock into smaller pieces. Wind, water, ice, and temperature changes can cause weathering.",
+          "Erosion moves the small pieces to a new place."
+        ],
+        "label": "THE GEOSPHERE CHANGES",
+        "callout": "Another amazing job: Moving water can cut through rock and make canyons over a long time."
+      },
+      {
+        "title": "Rock to Sediment",
+        "caption": "Weathering and erosion",
+        "body": [
+          "A rock can crack and break. The small pieces are called sediment.",
+          "Rain and rivers can carry sediment away and build new land somewhere else."
+        ],
+        "label": "ROCK CHANGE",
+        "diagram": [
+          "Weathering: rain, wind and ice.",
+          "Rock: solid Earth material.",
+          "Sediment: small pieces of rock.",
+          "Erosion: moving water carries sediment away."
+        ]
+      },
+      {
+        "title": "Earth Is Connected!",
+        "caption": "Land connects with other spheres",
+        "body": [
+          "The geosphere holds soil for plants in the biosphere. Rivers in the hydrosphere can move rock and soil.",
+          "Wind and rain from the atmosphere can also change the land."
+        ],
+        "label": "FOUR SPHERES",
+        "callout": "Land does not stay the same. Other spheres can change it.",
+        "chips": [
+          "AIR",
+          "WATER",
+          "LAND",
+          "LIFE"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "geosphere",
+        "Earth's rocks, land, and deep interior"
+      ],
+      [
+        "soil",
+        "the top layer of land where plants grow"
+      ],
+      [
+        "magma",
+        "melted rock under Earth's surface"
+      ],
+      [
+        "weathering",
+        "breaking rock into smaller pieces"
+      ],
+      [
+        "erosion",
+        "moving rock or soil to a new place"
+      ]
+    ],
+    "questions": [
+      "What is the geosphere?",
+      "What can break rocks into smaller pieces?",
+      "What is the difference between weathering and erosion?"
+    ],
+    "frame": "I see ____. It is part of the geosphere.",
+    "source": "Science review sources in original: USGS; National Park Service Earth Science; NASA Earth Observatory."
+  },
+  "ja": {
+    "language": "日本語",
+    "name": "Japanese",
+    "toolkitTitle": "科学者の道具箱",
+    "vocabTitle": "覚えておきたい五つの言葉",
+    "checkTitle": "わかったことを確かめよう",
+    "talkTitle": "科学者のように話そう",
+    "imageNote": "画像は写真のように描かれたイラストです。実際の科学写真ではありません。",
+    "coverTitle": "地圏（ちけん）",
+    "subtitle": "わたしたちの足もとに広がる地面",
+    "coverQuestion": "陸地や岩は変わるの？",
+    "coverBody": "山、峡谷、土、火山を見てみよう。地球の表面は、いつも変化しています！",
+    "pages": [
+      {
+        "title": "地圏（ちけん）って何？",
+        "caption": "見てみよう：陸地、岩、山",
+        "body": [
+          "地圏には、地球の岩、土、山、陸地などがふくまれます。",
+          "地圏には、地球の深いところにある岩もふくまれます。"
+        ],
+        "label": "びっくりする事実",
+        "callout": "とても高い山もありますが、どの山も地圏の岩でできています。"
+      },
+      {
+        "title": "岩と土",
+        "caption": "土と岩の層",
+        "body": [
+          "土は地圏の一部です。多くの植物が土で育ち、多くの動物が土の中や上でくらしています。",
+          "岩には、がけのように大きいものも、小石のように小さいものもあります。"
+        ],
+        "label": "見て、考えよう",
+        "callout": "土の層や石を見て、どんなことに気づきますか？"
+      },
+      {
+        "title": "地球の中はとても熱い",
+        "caption": "火山から熱い岩が噴き出す",
+        "body": [
+          "マグマは、地球の表面の下にある、とけた岩です。マグマが地表に出ると、溶岩（ようがん）とよばれます。",
+          "火山は地圏の一部です。噴火（ふんか）すると、熱い溶岩が地表を流れることがあります。"
+        ],
+        "label": "地球のしくみのつながり",
+        "callout": "火山は地圏の一部ですが、けむりや火山灰は大気（たいき）にも影響します。"
+      },
+      {
+        "title": "岩は変化する",
+        "caption": "水が地形をつくる",
+        "body": [
+          "風化（ふうか）は、岩が小さなかけらにくだけることです。風、水、氷、温度の変化などが風化を引き起こします。",
+          "侵食（しんしょく）は、小さなかけらを別の場所へ運びます。"
+        ],
+        "label": "地圏は変化する",
+        "callout": "もう一つ、すごいはたらきがあります。流れる水は、長い時間をかけて岩をけずり、峡谷（きょうこく）をつくることがあります。"
+      },
+      {
+        "title": "岩から堆積物（たいせきぶつ）へ",
+        "caption": "風化と侵食",
+        "body": [
+          "岩にはひびが入り、割れることがあります。その小さなかけらを堆積物（たいせきぶつ）とよびます。",
+          "雨や川は堆積物を運び、ほかの場所で新しい陸地をつくることがあります。"
+        ],
+        "label": "岩の変化",
+        "diagram": [
+          "風化（ふうか）：雨、風、氷などが引き起こす。",
+          "岩：地球の固い物質。",
+          "堆積物（たいせきぶつ）：小さな岩のかけら。",
+          "侵食（しんしょく）：流れる水が堆積物を運び去る。"
+        ]
+      },
+      {
+        "title": "地球のしくみはつながっている！",
+        "caption": "陸地はほかのしくみとつながる",
+        "body": [
+          "地圏には、生物圏（せいぶつけん）の植物が育つ土があります。水圏（すいけん）の川は、岩や土を運ぶことがあります。",
+          "大気からの風や雨も、陸地を変えることがあります。"
+        ],
+        "label": "四つのしくみ",
+        "callout": "陸地は、ずっと同じではありません。ほかのしくみが陸地を変えることがあります。",
+        "chips": [
+          "空気",
+          "水",
+          "陸地",
+          "生き物"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "地圏（ちけん）",
+        "地球の岩、陸地、そして深い内部"
+      ],
+      [
+        "土（つち）",
+        "植物が育つ、地面のいちばん上の層"
+      ],
+      [
+        "マグマ",
+        "地球の表面の下にある、とけた岩"
+      ],
+      [
+        "風化（ふうか）",
+        "岩が小さなかけらにくだけること"
+      ],
+      [
+        "侵食（しんしょく）",
+        "岩や土を別の場所へ運ぶこと"
+      ]
+    ],
+    "questions": [
+      "地圏とは何ですか？",
+      "何が岩を小さなかけらにくだくのでしょうか？",
+      "風化と侵食は、どのようにちがいますか？"
+    ],
+    "frame": "____ が見えます。それは地圏の一部です。"
+  },
+  "ko": {
+    "language": "한국어",
+    "name": "Korean",
+    "toolkitTitle": "나의 과학자 도구 상자",
+    "vocabTitle": "기억할 낱말 다섯 가지",
+    "checkTitle": "이해했는지 확인해요",
+    "talkTitle": "과학자처럼 말해요",
+    "imageNote": "이 자료의 이미지는 사진처럼 그린 삽화이며, 실제 과학 사진이 아닙니다.",
+    "coverTitle": "지권",
+    "subtitle": "우리 발밑의 땅",
+    "coverQuestion": "땅과 암석은 변할 수 있나요?",
+    "coverBody": "산, 협곡, 흙, 화산을 살펴보세요. 지구의 표면은 언제나 변하고 있어요!",
+    "pages": [
+      {
+        "title": "지권이란 무엇일까요?",
+        "caption": "살펴보기: 땅, 암석, 산",
+        "body": [
+          "지권에는 지구의 암석, 흙, 산, 땅이 포함돼요.",
+          "지구 깊은 곳에 있는 암석도 지권에 포함돼요."
+        ],
+        "label": "놀라운 사실",
+        "callout": "어떤 산은 아주 높지만, 모든 산은 지권의 암석으로 이루어져 있어요."
+      },
+      {
+        "title": "암석과 흙",
+        "caption": "흙과 암석의 층",
+        "body": [
+          "흙은 지권의 일부예요. 많은 식물이 흙에서 자라고, 많은 동물이 흙 속이나 그 위에서 살아요.",
+          "암석은 절벽처럼 클 수도 있고, 조약돌처럼 작을 수도 있어요."
+        ],
+        "label": "보고 생각해요",
+        "callout": "흙의 층과 돌을 살펴보니 무엇이 눈에 띄나요?"
+      },
+      {
+        "title": "지구 내부는 아주 뜨거워요",
+        "caption": "화산에서 뜨거운 암석이 뿜어져 나와요",
+        "body": [
+          "마그마는 지구 표면 아래에서 녹은 암석이에요. 마그마가 지표에 나오면 용암이라고 불러요.",
+          "화산은 지권의 일부예요. 화산이 분출할 때 뜨거운 용암이 땅 위로 흐를 수 있어요."
+        ],
+        "label": "지구의 영역은 서로 연결돼요",
+        "callout": "화산은 지권의 일부이지만, 연기와 화산재는 대기에도 영향을 주어요."
+      },
+      {
+        "title": "암석은 변할 수 있어요",
+        "caption": "물은 땅의 모양을 바꾸어요",
+        "body": [
+          "풍화는 암석이 더 작은 조각으로 부서지는 것이에요. 바람, 물, 얼음, 온도 변화가 풍화를 일으킬 수 있어요.",
+          "침식은 작은 조각들을 새로운 곳으로 옮겨요."
+        ],
+        "label": "지권은 변해요",
+        "callout": "또 다른 놀라운 역할도 있어요. 흐르는 물은 오랜 시간에 걸쳐 암석을 깎아 협곡을 만들 수 있어요."
+      },
+      {
+        "title": "암석에서 퇴적물로",
+        "caption": "풍화와 침식",
+        "body": [
+          "암석은 갈라지고 부서질 수 있어요. 이 작은 조각들을 퇴적물이라고 해요.",
+          "비와 강은 퇴적물을 다른 곳으로 옮겨 새로운 땅을 만들 수 있어요."
+        ],
+        "label": "암석의 변화",
+        "diagram": [
+          "풍화: 비, 바람, 얼음 등이 일으켜요.",
+          "암석: 지구를 이루는 단단한 물질이에요.",
+          "퇴적물: 작은 암석 조각들이에요.",
+          "침식: 흐르는 물이 퇴적물을 옮겨 가요."
+        ]
+      },
+      {
+        "title": "지구는 서로 연결되어 있어요!",
+        "caption": "땅은 다른 영역과 연결돼요",
+        "body": [
+          "지권에는 생물권의 식물이 자라는 흙이 있어요. 수권의 강은 암석과 흙을 옮길 수 있어요.",
+          "대기에서 오는 바람과 비도 땅을 바꿀 수 있어요."
+        ],
+        "label": "지구의 네 영역",
+        "callout": "땅은 늘 같은 모습으로 있지 않아요. 다른 영역이 땅을 바꿀 수 있어요.",
+        "chips": [
+          "공기",
+          "물",
+          "땅",
+          "생명"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "지권",
+        "지구의 암석, 땅, 깊은 내부"
+      ],
+      [
+        "흙",
+        "식물이 자라는 땅의 맨 위층"
+      ],
+      [
+        "마그마",
+        "지구 표면 아래의 녹은 암석"
+      ],
+      [
+        "풍화",
+        "암석이 작은 조각으로 부서지는 것"
+      ],
+      [
+        "침식",
+        "암석이나 흙을 새로운 곳으로 옮기는 것"
+      ]
+    ],
+    "questions": [
+      "지권은 무엇인가요?",
+      "무엇이 암석을 작은 조각으로 부술 수 있나요?",
+      "풍화와 침식은 어떻게 다른가요?"
+    ],
+    "frame": "____이/가 보여요. 이것은 지권의 일부예요."
+  },
+  "zh": {
+    "language": "简体中文",
+    "name": "Simplified_Chinese",
+    "toolkitTitle": "你的小科学家工具箱",
+    "vocabTitle": "记住这五个词",
+    "checkTitle": "检查你的理解",
+    "talkTitle": "像科学家一样表达",
+    "imageNote": "本读本中的图片是逼真插画，并非真实的科学照片。",
+    "coverTitle": "地圈",
+    "subtitle": "我们脚下的大地",
+    "coverQuestion": "陆地和岩石会变化吗？",
+    "coverBody": "看看山脉、峡谷、土壤和火山。地球表面一直在变化！",
+    "pages": [
+      {
+        "title": "什么是地圈？",
+        "caption": "观察：陆地、岩石和山脉",
+        "body": [
+          "地圈包括地球的岩石、土壤、山脉和陆地。",
+          "地圈也包括地球深处的岩石。"
+        ],
+        "label": "神奇的事实",
+        "callout": "有些山很高，但它们都是由地圈中的岩石组成的。"
+      },
+      {
+        "title": "岩石和土壤",
+        "caption": "土壤和岩石的层次",
+        "body": [
+          "土壤是地圈的一部分。许多植物在土壤中生长，许多动物生活在土壤中或土壤上。",
+          "岩石可以像悬崖一样大，也可以像鹅卵石一样小。"
+        ],
+        "label": "观察并思考",
+        "callout": "观察土层和石头，你发现了什么？"
+      },
+      {
+        "title": "地球内部很热",
+        "caption": "火山喷出炽热的岩石",
+        "body": [
+          "岩浆是地球表面以下熔化的岩石。岩浆到达地表后，就叫熔岩。",
+          "火山是地圈的一部分。火山喷发时，炽热的熔岩可能流过陆地。"
+        ],
+        "label": "地球各圈层的联系",
+        "callout": "火山属于地圈，但烟雾和火山灰也会影响大气。"
+      },
+      {
+        "title": "岩石会变化",
+        "caption": "水塑造陆地",
+        "body": [
+          "风化使岩石碎成更小的碎块。风、水、冰和温度变化都可能引起风化。",
+          "侵蚀把这些小碎块搬运到新的地方。"
+        ],
+        "label": "地圈在变化",
+        "callout": "地圈还有一个神奇的变化：流动的水经过很长时间，可以切割岩石，形成峡谷。"
+      },
+      {
+        "title": "从岩石到沉积物",
+        "caption": "风化和侵蚀",
+        "body": [
+          "岩石可能开裂、破碎。这些小碎块叫沉积物。",
+          "雨水和河流可以把沉积物搬走，在其他地方堆积成新的陆地。"
+        ],
+        "label": "岩石的变化",
+        "diagram": [
+          "风化：雨、风和冰等因素引起的作用。",
+          "岩石：地球的固体物质。",
+          "沉积物：小块的岩石碎屑。",
+          "侵蚀：流动的水把沉积物带走。"
+        ]
+      },
+      {
+        "title": "地球上的一切相互联系！",
+        "caption": "陆地与其他圈层相联系",
+        "body": [
+          "地圈为生物圈中的植物提供土壤。水圈中的河流可以搬运岩石和土壤。",
+          "来自大气的风和雨也能改变陆地。"
+        ],
+        "label": "地球的四个圈层",
+        "callout": "陆地不会一直保持原样。其他圈层能够改变它。",
+        "chips": [
+          "空气",
+          "水",
+          "陆地",
+          "生命"
+        ]
+      }
+    ],
+    "vocab": [
+      [
+        "地圈",
+        "地球的岩石、陆地和深部"
+      ],
+      [
+        "土壤",
+        "植物生长的地表最上层"
+      ],
+      [
+        "岩浆",
+        "地球表面以下熔化的岩石"
+      ],
+      [
+        "风化",
+        "岩石碎成更小碎块的过程"
+      ],
+      [
+        "侵蚀",
+        "岩石或土壤被搬运到新地方的过程"
+      ]
+    ],
+    "questions": [
+      "什么是地圈？",
+      "什么能使岩石碎成更小的碎块？",
+      "风化和侵蚀有什么区别？"
+    ],
+    "frame": "我看到了____。它是地圈的一部分。"
+  }
+}
