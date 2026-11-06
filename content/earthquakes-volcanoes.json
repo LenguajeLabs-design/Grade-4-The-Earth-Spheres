@@ -1,0 +1,334 @@
+{
+  "title": {
+    "en": "Earthquakes & Volcanoes",
+    "ja": "地震と火山",
+    "ko": "지진과 화산",
+    "zh": "地震与火山"
+  },
+  "subtitle": {
+    "en": "Why does the ground shake? How does new rock form?",
+    "ja": "地面はなぜ揺れるの？ 新しい岩石はどうやってできるの？",
+    "ko": "땅은 왜 흔들릴까요? 새로운 암석은 어떻게 만들어질까요?",
+    "zh": "地面为什么会震动？新的岩石是怎样形成的？"
+  },
+  "intro": {
+    "en": "Explore two ways the geosphere changes. Read the short passages, follow the models, and explain what happens.",
+    "ja": "地圏が変化する二つのしくみを調べましょう。短い文章を読み、モデルを見て、何が起きるか説明してみましょう。",
+    "ko": "지권이 변하는 두 가지 방법을 살펴보세요. 짧은 글을 읽고 모형을 보면서 어떤 일이 일어나는지 설명해 보세요.",
+    "zh": "探索地圈发生变化的两种方式。阅读短文，观察模型，并试着解释发生了什么。"
+  },
+  "sections": [
+    {
+      "id": "moving-plates",
+      "title": {
+        "en": "Earth’s plates move",
+        "ja": "地球のプレートは動く",
+        "ko": "지구의 판은 움직여요",
+        "zh": "地球的板块会移动"
+      },
+      "paragraphs": [
+        {
+          "en": "Earth’s hard outer layer is broken into large pieces called tectonic plates. These plates move very slowly.",
+          "ja": "地球のかたい外側の層は、「プレート」と呼ばれる大きな部分に分かれています。プレートは、とてもゆっくり動いています。",
+          "ko": "지구의 단단한 바깥층은 판이라고 하는 큰 조각들로 나뉘어 있어요. 이 판들은 아주 천천히 움직여요.",
+          "zh": "地球坚硬的外层分成许多大块，叫作构造板块。这些板块移动得非常缓慢。"
+        },
+        {
+          "en": "Below the plates, the mantle is mostly solid rock. Over a very long time, this hot rock can flow slowly.",
+          "ja": "プレートの下にあるマントルの大部分は、固体の岩石です。この熱い岩石は、非常に長い時間をかけて、ゆっくり流れるように動くことができます。",
+          "ko": "판 아래에 있는 맨틀은 대부분 고체 암석이에요. 이 뜨거운 암석은 아주 오랜 시간에 걸쳐 천천히 흐를 수 있어요.",
+          "zh": "板块下面是地幔，主要由固态岩石组成。经过非常漫长的时间，这些炽热的岩石可以缓慢流动。"
+        }
+      ]
+    },
+    {
+      "id": "earthquakes",
+      "title": {
+        "en": "Why does the ground shake?",
+        "ja": "地面はなぜ揺れるの？",
+        "ko": "땅은 왜 흔들릴까요?",
+        "zh": "地面为什么会震动？"
+      },
+      "paragraphs": [
+        {
+          "en": "An earthquake is a sudden shaking of the ground. Many earthquakes happen when rocks move along a fault. A fault is a break in Earth’s crust where rocks can move.",
+          "ja": "地震は、地面が突然揺れることです。多くの地震は、断層（だんそう）に沿って岩石が動くときに起こります。断層とは、岩石がずれ動くことのある、地殻（ちかく）の割れ目です。",
+          "ko": "지진은 땅이 갑자기 흔들리는 현상이에요. 많은 지진은 암석이 단층을 따라 움직일 때 일어나요. 단층은 암석이 움직일 수 있는 지각의 갈라진 부분이에요.",
+          "zh": "地震是地面的突然震动。许多地震发生在岩石沿着断层移动的时候。断层是地壳中岩石可以发生错动的断裂处。"
+        },
+        {
+          "en": "The plates keep moving, but rocks along a fault can get stuck. When the rocks suddenly slip, they release energy. This energy travels in waves and makes the ground shake.",
+          "ja": "プレートは動き続けていますが、断層に沿った岩石が引っかかって動かなくなることがあります。岩石が突然ずれると、エネルギーが放出されます。そのエネルギーが波となって伝わり、地面を揺らします。",
+          "ko": "판은 계속 움직이지만, 단층을 따라 있는 암석은 서로 걸려 움직이지 못할 수 있어요. 암석이 갑자기 미끄러져 움직이면 에너지가 방출돼요. 이 에너지가 파동으로 퍼져 나가면서 땅을 흔들어요.",
+          "zh": "板块不断移动，但断层两侧的岩石有时会被卡住。当岩石突然滑动时，就会释放能量。能量以波的形式传播，使地面震动。"
+        }
+      ]
+    },
+    {
+      "id": "volcanoes",
+      "title": {
+        "en": "How does a volcano erupt?",
+        "ja": "火山はどうやって噴火するの？",
+        "ko": "화산은 어떻게 분출할까요?",
+        "zh": "火山是怎样喷发的？"
+      },
+      "paragraphs": [
+        {
+          "en": "A volcano is an opening in Earth’s surface. Hot melted rock below the surface is called magma.",
+          "ja": "火山には、地球の表面につながる開口部があります。地下にある、熱くとけた岩石をマグマと呼びます。",
+          "ko": "화산은 지구 표면에 있는 분출구예요. 지표면 아래의 뜨겁게 녹은 암석을 마그마라고 해요.",
+          "zh": "火山是地球表面供地下物质喷出的开口。地表以下炽热的熔融岩石叫作岩浆。"
+        },
+        {
+          "en": "Magma can rise through cracks. When magma reaches the surface, it is called lava. Lava cools and becomes solid rock.",
+          "ja": "マグマは、割れ目を通って上がってくることがあります。マグマが地表に出ると、溶岩（ようがん）と呼ばれます。溶岩は冷えると、固体の岩石になります。",
+          "ko": "마그마는 갈라진 틈을 통해 올라올 수 있어요. 마그마가 지표면에 나오면 용암이라고 불러요. 용암은 식으면 고체 암석이 돼요.",
+          "zh": "岩浆可以沿着裂缝上升。当岩浆到达地表时，就叫作熔岩。熔岩冷却后会变成固态岩石。"
+        },
+        {
+          "en": "During an eruption, lava, gases, or ash come out of a volcano. Ash is made of tiny pieces of rock and volcanic glass. Some eruptions have slow lava flows. Others explode.",
+          "ja": "噴火（ふんか）のとき、火山から溶岩や気体、火山灰（かざんばい）などが出てきます。火山灰は、とても小さな岩石や火山ガラスのかけらです。溶岩がゆっくり流れ出る噴火もあれば、爆発する噴火もあります。",
+          "ko": "화산이 분출할 때는 용암, 기체 또는 화산재가 나와요. 화산재는 아주 작은 암석과 화산 유리 조각으로 이루어져 있어요. 어떤 분출에서는 용암이 천천히 흐르고, 어떤 분출은 폭발하기도 해요.",
+          "zh": "火山喷发时，熔岩、气体或火山灰会从火山中出来。火山灰由微小的岩石和火山玻璃碎片组成。有的喷发中熔岩缓慢流出，有的喷发则会发生爆炸。"
+        }
+      ]
+    },
+    {
+      "id": "connections",
+      "title": {
+        "en": "Compare and connect",
+        "ja": "比べて、つながりを考えよう",
+        "ko": "비교하고 연결해 봐요",
+        "zh": "比较与联系"
+      },
+      "paragraphs": [
+        {
+          "en": "Earthquakes and volcanoes both change the geosphere. Many happen near the edges of tectonic plates, but not all. An earthquake does not always cause a volcanic eruption.",
+          "ja": "地震も火山も地圏を変化させます。多くはプレートの境目の近くで起こりますが、すべてがそうとは限りません。地震が起きても、必ず火山が噴火するわけではありません。",
+          "ko": "지진과 화산은 모두 지권을 변화시켜요. 많은 지진과 화산 활동이 판의 경계 근처에서 일어나지만, 모두 그런 것은 아니에요. 지진이 난다고 해서 언제나 화산이 분출하는 것은 아니에요.",
+          "zh": "地震和火山都会改变地圈。许多地震和火山活动发生在板块边缘附近，但并不都是这样。发生地震并不一定会引起火山喷发。"
+        },
+        {
+          "en": "Changes in the geosphere can affect other spheres. Volcanic gases and ash can enter the atmosphere. Lava can change a river’s path. These changes can affect living things in the biosphere.",
+          "ja": "地圏の変化は、ほかの圏にも影響することがあります。火山の気体や灰は大気に入ります。溶岩は川の流れる道を変えることがあります。こうした変化は、生物圏の生き物にも影響することがあります。",
+          "ko": "지권의 변화는 다른 영역에도 영향을 줄 수 있어요. 화산 기체와 화산재는 대기로 들어갈 수 있어요. 용암은 강이 흐르는 길을 바꿀 수 있어요. 이런 변화는 생물권의 생명체에도 영향을 줄 수 있어요.",
+          "zh": "地圈的变化会影响其他圈层。火山气体和火山灰可以进入大气圈。熔岩可以改变河流的流向。这些变化会影响生物圈中的生物。"
+        }
+      ]
+    }
+  ],
+  "sequence": [
+    {
+      "en": "First, rocks get stuck.",
+      "ja": "まず、岩石が引っかかります。",
+      "ko": "먼저, 암석이 서로 걸려요.",
+      "zh": "首先，岩石被卡住。"
+    },
+    {
+      "en": "Next, rocks suddenly slip.",
+      "ja": "次に、岩石が突然ずれます。",
+      "ko": "다음으로, 암석이 갑자기 미끄러져 움직여요.",
+      "zh": "接着，岩石突然滑动。"
+    },
+    {
+      "en": "Then, energy makes the ground shake.",
+      "ja": "そして、エネルギーが地面を揺らします。",
+      "ko": "그러면 에너지가 땅을 흔들어요.",
+      "zh": "然后，释放的能量使地面震动。"
+    }
+  ],
+  "diagramKey": [
+    {
+      "en": "Magma: melted rock below the surface.",
+      "ja": "マグマ：地下にある、とけた岩石。",
+      "ko": "마그마: 지표면 아래에서 녹은 암석.",
+      "zh": "岩浆：地表以下的熔融岩石。"
+    },
+    {
+      "en": "Lava: melted rock on the surface.",
+      "ja": "溶岩：地表に出た、とけた岩石。",
+      "ko": "용암: 지표면에 나온 녹은 암석.",
+      "zh": "熔岩：到达地表的熔融岩石。"
+    },
+    {
+      "en": "Ash and gases can rise into the air.",
+      "ja": "火山灰や気体は、空気中に上がることがあります。",
+      "ko": "화산재와 기체는 공기 중으로 올라갈 수 있어요.",
+      "zh": "火山灰和气体可以升到空中。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "en": [
+        "tectonic plate",
+        "a large piece of Earth’s hard outer layer"
+      ],
+      "ja": [
+        "プレート",
+        "地球のかたい外側の層をつくる、大きな部分"
+      ],
+      "ko": [
+        "판",
+        "지구의 단단한 바깥층을 이루는 큰 조각"
+      ],
+      "zh": [
+        "构造板块",
+        "地球坚硬外层的一大块"
+      ]
+    },
+    {
+      "en": [
+        "fault",
+        "a break in Earth’s crust where rocks can move"
+      ],
+      "ja": [
+        "断層（だんそう）",
+        "岩石がずれ動くことのある、地殻の割れ目"
+      ],
+      "ko": [
+        "단층",
+        "암석이 움직일 수 있는 지각의 갈라진 부분"
+      ],
+      "zh": [
+        "断层",
+        "地壳中岩石可以发生错动的断裂处"
+      ]
+    },
+    {
+      "en": [
+        "earthquake",
+        "a sudden shaking of the ground"
+      ],
+      "ja": [
+        "地震（じしん）",
+        "地面が突然揺れること"
+      ],
+      "ko": [
+        "지진",
+        "땅이 갑자기 흔들리는 현상"
+      ],
+      "zh": [
+        "地震",
+        "地面的突然震动"
+      ]
+    },
+    {
+      "en": [
+        "magma",
+        "hot melted rock below Earth’s surface"
+      ],
+      "ja": [
+        "マグマ",
+        "地下にある、熱くとけた岩石"
+      ],
+      "ko": [
+        "마그마",
+        "지표면 아래의 뜨겁게 녹은 암석"
+      ],
+      "zh": [
+        "岩浆",
+        "地表以下炽热的熔融岩石"
+      ]
+    },
+    {
+      "en": [
+        "lava",
+        "melted rock that reaches Earth’s surface"
+      ],
+      "ja": [
+        "溶岩（ようがん）",
+        "地表に出た、とけた岩石"
+      ],
+      "ko": [
+        "용암",
+        "지표면에 나온 녹은 암석"
+      ],
+      "zh": [
+        "熔岩",
+        "到达地表的熔融岩石"
+      ]
+    },
+    {
+      "en": [
+        "eruption",
+        "when material comes out of a volcano"
+      ],
+      "ja": [
+        "噴火（ふんか）",
+        "火山から物質が出てくること"
+      ],
+      "ko": [
+        "분출",
+        "화산에서 물질이 나오는 현상"
+      ],
+      "zh": [
+        "喷发",
+        "物质从火山中喷出的过程"
+      ]
+    },
+    {
+      "en": [
+        "volcanic ash",
+        "tiny pieces of rock and volcanic glass"
+      ],
+      "ja": [
+        "火山灰（かざんばい）",
+        "とても小さな岩石や火山ガラスのかけら"
+      ],
+      "ko": [
+        "화산재",
+        "아주 작은 암석과 화산 유리 조각"
+      ],
+      "zh": [
+        "火山灰",
+        "微小的岩石和火山玻璃碎片"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "en": "Put the earthquake steps in order: the ground shakes; rocks get stuck; rocks suddenly slip.",
+      "ja": "地震の起こる順に並べましょう：地面が揺れる、岩石が引っかかる、岩石が突然ずれる。",
+      "ko": "지진이 일어나는 순서대로 놓아 보세요: 땅이 흔들려요; 암석이 서로 걸려요; 암석이 갑자기 미끄러져 움직여요.",
+      "zh": "把地震发生的步骤按顺序排列：地面震动；岩石被卡住；岩石突然滑动。"
+    },
+    {
+      "en": "What is the difference between magma and lava? Use the model to explain.",
+      "ja": "マグマと溶岩は、何が違いますか？ モデルを使って説明しましょう。",
+      "ko": "마그마와 용암은 무엇이 다를까요? 모형을 보며 설명해 보세요.",
+      "zh": "岩浆和熔岩有什么区别？请用模型来解释。"
+    },
+    {
+      "en": "Choose one volcanic change. Explain how it can affect another sphere.",
+      "ja": "火山による変化を一つ選びましょう。それがほかの圏にどう影響するか、説明しましょう。",
+      "ko": "화산으로 생기는 변화 한 가지를 골라 보세요. 그 변화가 다른 영역에 어떤 영향을 줄 수 있는지 설명해 보세요.",
+      "zh": "选择一种火山引起的变化，解释它会怎样影响另一个圈层。"
+    }
+  ],
+  "frames": [
+    {
+      "en": "First, ____. Next, ____. Then, ____.",
+      "ja": "まず、____。次に、____。そして、____。",
+      "ko": "먼저, ____. 다음으로, ____. 그러면 ____.",
+      "zh": "首先，____。接着，____。然后，____。"
+    },
+    {
+      "en": "The ground shakes because ____.",
+      "ja": "____ ので、地面が揺れます。",
+      "ko": "____ 때문에 땅이 흔들려요.",
+      "zh": "地面会震动，因为____。"
+    },
+    {
+      "en": "Magma is ____, but lava is ____.",
+      "ja": "マグマは ____ にありますが、溶岩は ____ にあります。",
+      "ko": "마그마는 ____에 있지만, 용암은 ____에 있어요.",
+      "zh": "岩浆在____，而熔岩在____。"
+    },
+    {
+      "en": "This change affects the ____ because ____.",
+      "ja": "この変化は、____ ので、____ に影響します。",
+      "ko": "이 변화는 ____ 때문에 ____에 영향을 주어요.",
+      "zh": "这种变化会影响____，因为____。"
+    }
+  ]
+}
