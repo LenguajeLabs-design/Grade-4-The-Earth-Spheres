@@ -29,8 +29,8 @@ def language_select():
 
 def document(title,body,data=None,style=''):
  serialized=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c') if data else ''
- script=f'<script id="reader-data" type="application/json">{serialized}</script><script src="app.js" defer></script>' if data else ''
- return f'<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Explore Earth’s four spheres with illustrated English readers, Japanese, Korean and Chinese paragraph translations, and read-aloud support."><meta name="theme-color" content="#102f3a"><title>{e(title)} | Earth Explorers</title><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"></head><body{(" style="+chr(34)+style+chr(34)) if style else ""}>{body}{script}</body></html>\n'
+ script=f'<script id="reader-data" type="application/json">{serialized}</script><script src="app.js?v=20261106-toolbar" defer></script>' if data else ''
+ return f'<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Explore Earth’s four spheres with illustrated English readers, Japanese, Korean and Chinese paragraph translations, and read-aloud support."><meta name="theme-color" content="#102f3a"><title>{e(title)} | Earth Explorers</title><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v=20261106-toolbar"></head><body{(" style="+chr(34)+style+chr(34)) if style else ""}>{body}{script}</body></html>\n'
 
 def localized(data,values,key=None):
  key=key or 'l'+str(len(data['localized']))
@@ -42,7 +42,16 @@ def paragraph(data,en,tr,ident):
  return f'<div class="paragraph-block" id="{ident}"><p>{e(en)}</p><button class="listen" type="button" data-speak="en" aria-label="Read this English paragraph">▶ Listen in English</button></div>'
 
 def tools():
- return '<div class="tools" role="region" aria-label="Reading and listening tools"><div class="tool-group"><label for="language">Home language</label>'+language_select()+'</div><div class="tool-group"><label for="rate">Reading speed</label><select id="rate"><option value="0.7">Slower</option><option value="0.85" selected>Gentle</option><option value="1">Normal</option></select></div><div class="tool-group"><label for="text-size">Text size</label><select id="text-size"><option value="20">Comfortable</option><option value="23">Larger</option><option value="26">Largest</option></select></div><button id="pause" type="button" disabled>Pause</button><button id="stop" type="button" disabled>Stop</button><button id="print-reader" class="print" type="button">Print reader ↗</button><span class="audio-status" id="audio-status" role="status" aria-live="polite">Choose a passage and tap Listen.</span><details class="voice-settings"><summary>Voice options &amp; audio help</summary><div class="voice-fields"><div class="tool-group"><label for="english-voice">English voice</label><select id="english-voice"></select></div><div class="tool-group" id="home-voice-group" hidden><label for="home-voice">Home-language voice</label><select id="home-voice"></select></div></div><p class="voice-note" id="voice-note">Included narration is available in all four languages. Optional voices come from your device.</p></details></div>'
+ return ('<div class="tools" role="region" aria-label="Reading and listening tools">'
+  '<div class="tools-main"><div class="tool-group language-group"><label for="language">Home language</label>'+language_select()+'</div>'
+  '<div class="playback-controls" id="playback-controls" hidden><button id="pause" type="button" disabled>Pause</button><button id="stop" type="button" disabled>Stop</button></div>'
+  '<details class="reading-settings"><summary>Reading settings</summary><div class="settings-panel">'
+  '<div class="settings-grid"><div class="tool-group"><label for="rate">Reading speed</label><select id="rate"><option value="0.7">Slower</option><option value="0.85" selected>Gentle</option><option value="1">Normal</option></select></div>'
+  '<div class="tool-group"><label for="text-size">Text size</label><select id="text-size"><option value="20">Comfortable</option><option value="23">Larger</option><option value="26">Largest</option></select></div></div>'
+  '<div class="settings-actions"><button id="translations-all" type="button" aria-pressed="false" hidden>Show all translations</button><button id="print-reader" class="print" type="button">Print reader ↗</button></div>'
+  '<div class="voice-fields"><div class="tool-group"><label for="english-voice">English voice</label><select id="english-voice"></select></div><div class="tool-group" id="home-voice-group" hidden><label for="home-voice">Home-language voice</label><select id="home-voice"></select></div></div>'
+  '<p class="voice-note" id="voice-note">Included narration is available in all four languages. Optional voices come from your device.</p>'
+  '</div></details></div><span class="audio-status" id="audio-status" role="status" aria-live="polite"></span></div>')
 
 for sphere in ORDER:
  d=READERS[sphere];m=META[sphere]

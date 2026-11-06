@@ -29,7 +29,7 @@ for sphere in ORDER:
  d=READERS[sphere];m=META[sphere]
  data={'paragraphs':[],'localized':{},'sections':[],'words':{lang:d[lang]['vocab'] for lang in LANGS}}
  body=header(sphere)+f'<main id="main" class="shell book-main"><div class="book-intro"><a href="index.html">← All four spheres</a><span>THE {m["label"].upper()} / GRADE 4</span></div>'
- body+=tools().replace('<button id="print-reader"','<button id="translations-all" type="button" aria-pressed="false" hidden>Show all translations</button><button id="print-reader"')
+ body+=tools()
  body+='<nav class="book-nav" aria-label="Reader sections">'+''.join(f'<a href="#section-{i+1}">{i+1:02d} {label}</a>' for i,label in enumerate(LABELS))+'</nav>'
  for gi,indices in enumerate(GROUPS):
   ident=f'section-{gi+1}'
@@ -83,7 +83,7 @@ for sphere in ORDER:
    for section in data['sections']:
     wanted[lang].add(section['title'][lang]);wanted[lang].update(section.get('diagram',{}).get(lang,[]));wanted[lang].update(section.get('extra',{}).get(lang,[]))
    for pair in data['words'][lang]:wanted[lang].update(('. '.join(pair),'。 '.join(pair)))
-  data['narration']={lang:{text:narration[lang][text] for text in wanted[lang]} for lang in LANGS}
+  data['narration']={lang:{text:narration[lang][text] for text in sorted(wanted[lang])} for lang in LANGS}
  page=document('The '+m['label'],body,data,f'--accent:{m["accent"]};--tint:{m["tint"]}')
  page=page.replace('<body style=','<body class="reader-paper" style=')
  (ROOT/f'{sphere}.html').write_text(page)
