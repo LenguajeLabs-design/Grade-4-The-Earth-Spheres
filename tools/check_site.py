@@ -35,7 +35,17 @@ for name,page in pages.items():
         assert target.exists(),(name,'missing local link',raw)
         if u.fragment and target.suffix=='.html':
             assert u.fragment in pages[target.name].ids,(name,'missing anchor',raw)
-    if name not in ('index.html','credits.html'):
+    if name=='earthquakes-volcanoes.html':
+        d=json.loads(page.json)
+        assert d['audio'] is False and d['kind']=='extension'
+        assert 'data-speak' not in page.path.read_text()
+        assert len(d['paragraphs'])==9
+        for record in d['paragraphs']:
+            assert record['id'] in page.ids
+            assert all(record.get(lang,'').strip() for lang in ('en','ja','ko','zh'))
+        assert 'earthquakes-volcanoes.html' in pages['geosphere.html'].links
+        print(name,': nine translated paragraphs; reading-only extension and Geosphere link valid')
+    elif name not in ('index.html','credits.html'):
         d=json.loads(page.json)
         assert page.sections==4,(name,'expected four reading sections')
         assert len(d['sections'])==4
@@ -61,5 +71,5 @@ for name,page in pages.items():
                 assert asset.exists() and asset.stat().st_size>4500,(name,'missing or empty audio',raw)
         print(name,': four sections,',len(d['paragraphs']),'complete multilingual paragraphs, five vocabulary entries; links and assets valid')
 assert (ROOT/'.nojekyll').exists()
-print('Six HTML pages checked. GitHub Pages project-relative links are valid.')
-print('All paragraphs, section readings and vocabulary have nonempty narration files in all four languages.')
+print(len(pages),'HTML pages checked. GitHub Pages project-relative links are valid.')
+print('The original four readers retain their narration in all four languages; the extension has no audio.')

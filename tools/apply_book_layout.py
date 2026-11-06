@@ -36,7 +36,10 @@ for sphere in ORDER:
   body+=f'<article class="reading-section book-page" id="{ident}" aria-labelledby="{ident}-title">'
   if gi==0:
    ta=localized(data,{lang:d[lang]['coverTitle'] for lang in ('ja','ko','zh')})
-   body+=f'<div class="book-hero" style="background-image:linear-gradient(0deg,#081b2bd9,#081b2b08),url(assets/images/{sphere}-2.webp)"><div class="eyebrow">EARTH EXPLORERS / SCIENCE READER</div><h1>The {m["label"]}</h1><p class="book-subtitle">{e(d["en"]["subtitle"])}</p><p class="book-home-title" {ta}></p></div>'
+   body+=f'<div class="book-hero" style="background-image:linear-gradient(0deg,#081b2bd9,#081b2b08),url(assets/images/{sphere}-2.webp)"><div class="eyebrow">EARTH EXPLORERS / SCIENCE READER</div><h1>The {m["label"]}</h1><p class="book-subtitle">{e(d["en"]["subtitle"])}</p><p class="book-home-title" {ta}></p>'
+   if sphere=='geosphere':
+    body+='<a class="extension-link" href="earthquakes-volcanoes.html">Earthquakes &amp; Volcanoes <span aria-hidden="true">→</span></a>'
+   body+='</div>'
   body+='<div class="book-content">'
   first=indices[0]
   body+=f'<div class="book-section-heading"><p class="eyebrow">{gi+1:02d} / {LABELS[gi].upper()}</p><div><button class="section-play" type="button" data-section-en="{gi}" data-speak="en">▶ Read section</button> <button class="section-play" type="button" data-section-home="{gi}" data-speak="home" hidden></button></div></div>'
@@ -67,6 +70,8 @@ for sphere in ORDER:
     pid=f'topic-{si+1}-callout';record['paragraphIds'].append(pid)
     body+=f'<div class="callout"><strong>{e(en["label"])}</strong>'+paragraph(data,en['callout'],{lang:d[lang]['pages'][si]['callout'] for lang in ('ja','ko','zh')},pid)+'</div>'
    if en.get('chips'):body+='<div class="sphere-chips">'+''.join('<span>'+e(s)+'</span>' for s in en['chips'])+'</div>'
+   if sphere=='geosphere' and si==2:
+    body+='<a class="geosphere-topic-link" href="earthquakes-volcanoes.html#volcanoes">Explore earthquakes and volcanoes →</a>'
    body+='</div>'
   if gi==3:
    body+=toolkit(d,data)
@@ -86,5 +91,8 @@ for sphere in ORDER:
   data['narration']={lang:{text:narration[lang][text] for text in sorted(wanted[lang])} for lang in LANGS}
  page=document('The '+m['label'],body,data,f'--accent:{m["accent"]};--tint:{m["tint"]}')
  page=page.replace('<body style=','<body class="reader-paper" style=')
+ if sphere=='geosphere':page=page.replace('</head>','<link rel="stylesheet" href="geosphere-extension.css?v=20261106"></head>')
  (ROOT/f'{sphere}.html').write_text(page)
 print('Applied Grade 5-inspired four-section reader layout to all four spheres.')
+runpy.run_path(str(ROOT/'tools'/'build_geosphere_extension.py'))['build_extension'](g)
+print('Built the reading-only earthquakes and volcanoes extension.')
