@@ -49,3 +49,7 @@ Narration is already included. After changing spoken content, regenerate clips o
 The classroom reader illustrations are identified as illustrations. These are not documentary photographs. Read `credits.html` for science sources and language/audio notes. Selected Japanese science terms have readings in parentheses. Translations have not had an independent native-speaker review.
 
 Reading preferences are stored only in the browser. No student answers or personal information are collected by this site. Hosting and device speech services have their own policies.
+
+## Geosphere extension
+
+`earthquakes-volcanoes.html` adds a reading-only extension designed to support Grade 4 learners working around WIDA 2–3. It includes nine short passages with Japanese, Korean and Simplified Chinese translations, a volcano cross-section, earthquake sequencing, vocabulary, questions and sentence frames. No audio files are added. Edit `content/earthquakes-volcanoes.json` and rebuild with the normal entry point. `tools/build_geosphere_extension.py` generates the extension; `extension.js` handles language and reading preferences. The Geosphere reader links to it from its cover and volcano topic.

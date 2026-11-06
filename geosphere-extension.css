@@ -1,0 +1,69 @@
+/* Geosphere extension: shared reading controls, focused science content. */
+.geosphere-extension .extension-hero{background-image:linear-gradient(0deg,#172b31ed,#172b3120),url(assets/images/geosphere-4.webp);min-height:330px}
+.geosphere-extension .extension-hero h1{font-size:clamp(36px,4.5vw,54px);text-transform:none;letter-spacing:-1.5px;line-height:1.1}
+.extension-cover{background:white;margin:18px 0 28px;box-shadow:0 8px 35px #283c551c}
+.extension-intro{padding:24px 48px}
+.extension-intro>p:not(.reading-badge),.extension-section .paragraph-block p{font-size:var(--reading-size);line-height:1.7}
+.support-text{font-size:calc(var(--reading-size) - 1px);line-height:1.85;color:#435c68;margin:8px 0 14px}
+.extension-hero .support-text{color:#e2efe9;font-size:19px;max-width:40em}
+.reading-badge{font-size:12px;color:#70502f;margin:14px 0 0;font-weight:650}
+.extension-section h2,.extension-toolkit h2{font:750 31px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;margin:12px 0 18px}
+.extension-section h3{font-size:21px;margin:0 0 14px}
+.earthquake-steps{background:#eef4f5;border-radius:12px;padding:24px;margin-top:16px}
+.earthquake-steps ol{padding:0;list-style:none;margin:0;display:grid;gap:12px}
+.earthquake-steps li{display:flex;align-items:start;gap:14px;padding:12px;background:#fff;border:1px solid #dce3df;border-radius:8px}
+.step-number{width:32px;height:32px;flex:0 0 32px;border-radius:50%;display:grid;place-items:center;color:white;background:#405c68;font-size:16px;font-weight:700}
+.earthquake-steps p{margin:0;font-size:18px;line-height:1.6}
+.earthquake-steps .support-text{font-size:17px;margin-top:5px}
+.volcano-model{margin:20px 0!important}
+.volcano-model svg{width:100%;height:auto;display:block}
+.reader-paper .volcano-model figcaption{padding:8px 0;font-size:12px}
+.extension-key{display:grid;gap:12px;padding:18px 22px;background:#f8f0e5;border-radius:10px}
+.extension-key>div+div{border-top:1px solid #d9c8b3;padding-top:12px}
+.extension-key p{margin:0;font-size:18px}
+.extension-key .support-text{margin:6px 0 0;font-size:17px}
+.compare-cards{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+.compare-cards>div{padding:18px;border:1px solid #dcccb6;border-radius:10px;background:#f8f0e5}
+.compare-cards p{font-size:18px;margin:0;line-height:1.65}
+.compare-cards .support-text{margin-top:10px;font-size:17px}
+.extension-toolkit{background:#fff;padding:30px 48px;margin:28px 0}
+.extension-toolkit h2:not(:first-child){margin-top:35px}
+.extension-vocabulary{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.extension-vocabulary>div{padding:18px;border:1px solid #e1d5c3;border-radius:9px;background:#fbf7ef}
+.extension-vocabulary h3{font-size:20px;margin:0 0 6px}
+.extension-vocabulary p{font-size:17px;line-height:1.6;margin:0}
+.extension-vocabulary .support-text{margin-top:10px}
+.extension-questions{padding-left:24px}
+.extension-questions li{padding:8px 0}
+.extension-questions p,.extension-frames p{font-size:var(--reading-size);line-height:1.7;margin:0 0 7px}
+.extension-frames{display:grid;gap:12px}
+.extension-frames>div{background:#eef4f5;border-left:4px solid #405c68;padding:16px 20px}
+.extension-notes{background:#f5f6f3;border:1px solid #cbd7d5;border-radius:9px;padding:14px 20px;margin-bottom:20px}
+.extension-notes summary{cursor:pointer;font-size:14px;font-weight:650;min-height:32px;display:list-item}
+.extension-notes p,.extension-notes li{font-size:14px;line-height:1.7}
+.extension-link{display:inline-flex;align-items:center;gap:12px;align-self:start;min-height:44px;margin-top:22px;padding:9px 14px;border:1px solid #d9e4de;border-radius:7px;background:#fff;color:#102f3a!important;text-decoration:none;font-size:15px;font-weight:700;line-height:1.5}
+.extension-link:hover{background:#f8f0e5}
+.geosphere-topic-link{display:inline-block;min-height:44px;margin-top:18px;padding:9px 0;color:#70502f;font-size:16px;font-weight:650;text-underline-offset:4px}
+@media(max-width:700px){
+ .extension-intro,.extension-toolkit{padding:24px}
+ .extension-section h2,.extension-toolkit h2{font-size:27px}
+ .extension-cover{margin:16px 0 0;box-shadow:none}
+ .geosphere-extension .extension-hero{min-height:300px}
+ .geosphere-extension .extension-hero h1{font-size:39px}
+ .geosphere-extension .book-nav{flex-wrap:wrap;justify-content:flex-start;gap:4px 18px}
+ .geosphere-extension .book-nav a{min-height:44px;display:flex;align-items:center}
+ .earthquake-steps{padding:16px}
+ .extension-vocabulary,.compare-cards{grid-template-columns:1fr}
+ .extension-notes{margin:20px 16px;padding:14px 16px}
+}
+@media print{
+ .extension-cover{box-shadow:none;margin:0}
+ .extension-intro,.extension-toolkit{padding:5mm 0;margin:0}
+ .extension-link,.geosphere-topic-link,.extension-notes{display:none!important}
+ .extension-section{break-before:page}
+ .earthquake-steps,.compare-cards,.volcano-model{break-inside:avoid}
+ .volcano-model svg{max-height:80mm}
+ .extension-vocabulary{grid-template-columns:1fr 1fr}
+ .extension-toolkit{break-before:page}
+ .support-text,.extension-intro>p:not(.reading-badge),.extension-section .paragraph-block p,.extension-questions p,.extension-frames p{font-size:12pt;line-height:1.5}
+}
