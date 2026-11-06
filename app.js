@@ -79,8 +79,11 @@
     }
     highlighted.classList.add('speaking');
   }
-  function controls(active){playing=active;if(pause)pause.disabled=!active;if(stop)stop.disabled=!active;}
-  function stopSpeech(message='Stopped. Choose a passage to listen again.'){
+  function controls(active){
+    playing=active;if(pause)pause.disabled=!active;if(stop)stop.disabled=!active;
+    const group=document.getElementById('playback-controls');if(group)group.hidden=!active;
+  }
+  function stopSpeech(message=''){
     generation++;if(synth)synth.cancel();
     if(narrationPlayer){narrationPlayer.pause();narrationPlayer.removeAttribute('src');narrationPlayer.load();narrationPlayer=null;}
     playbackKind=null;currentUtterance=null;paused=false;controls(false);clearHighlight();
@@ -191,7 +194,7 @@
   document.querySelectorAll('[data-section-en]').forEach(b=>b.addEventListener('click',()=>readSection(Number(b.dataset.sectionEn),'en')));
   document.querySelectorAll('[data-section-home]').forEach(b=>b.addEventListener('click',()=>readSection(Number(b.dataset.sectionHome),code)));
   if(data.words){document.querySelectorAll('[data-word-en]').forEach(b=>b.addEventListener('click',()=>{const i=Number(b.dataset.wordEn);speak([{text:data.words.en[i].join('. '),target:'word-'+i}],'en','word');}));document.querySelectorAll('[data-word-home]').forEach(b=>b.addEventListener('click',()=>{const i=Number(b.dataset.wordHome);speak([{text:data.words[code][i].join('。 '),target:'word-'+i}],code,'word');}));}
-  language.addEventListener('change',()=>{stopSpeech('Choose a passage to listen.');code=language.value;prefs.set('language',code);renderLanguage();});
+  language.addEventListener('change',()=>{stopSpeech();code=language.value;prefs.set('language',code);renderLanguage();});
   document.getElementById('translations-all')?.addEventListener('click',event=>{
     const button=event.currentTarget,open=button.getAttribute('aria-pressed')!=='true';
     translations.forEach(({content,toggle})=>{content.hidden=!open;toggle.setAttribute('aria-expanded',String(open));toggle.textContent=open?ui[code].hide:ui[code].show;});
@@ -211,6 +214,11 @@
   if(size)size.addEventListener('change',()=>{prefs.set('size',size.value);document.documentElement.style.setProperty('--reading-size',size.value+'px');});
   for(const [select,lang] of [[englishVoice,'en'],[homeVoice,'home']])if(select)select.addEventListener('change',()=>{prefs.set('voice-'+(lang==='home'?code:lang),select.value);stopSpeech('Voice selected. Tap Listen to start.');});
   document.getElementById('print-reader')?.addEventListener('click',()=>{stopSpeech();window.print();});
+  const settings=document.querySelector('.reading-settings');
+  if(settings){
+    document.addEventListener('pointerdown',event=>{if(settings.open&&!settings.contains(event.target))settings.open=false;});
+    document.addEventListener('keydown',event=>{if(event.key==='Escape'&&settings.open){settings.open=false;settings.querySelector('summary').focus();}});
+  }
   window.addEventListener('pagehide',()=>{if(synth)synth.cancel();if(narrationPlayer)narrationPlayer.pause();});
   if(synth)synth.addEventListener('voiceschanged',updateVoices);
   renderLanguage();

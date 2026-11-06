@@ -9,7 +9,7 @@ One master website for the Biosphere, Hydrosphere, Geosphere and Atmosphere unit
 - Keep the English visible and reveal Japanese, Korean or Simplified Chinese after each paragraph.
 - Listen to an English paragraph, a translation, or a whole section. Included narration covers all four languages. Pause, resume, stop, change the reading speed, or choose an optional device voice.
 - Use the illustrated vocabulary, questions and sentence frames.
-- Change text size or print the reader from the browser.
+- Open Reading settings for speed, text size, translation display, printing and voice choices. Pause and Stop appear in the compact toolbar during playback.
 
 All illustrations and narration are stored with the site. No sign-in, translation service, application server, API key, paid speech service or build framework is required. Included synthetic narration uses Samantha (English), Kyoko (Japanese), Yuna (Korean) and Tingting (Chinese). Whole-paragraph clips keep the flow of each passage. Device/browser speech is an optional alternative and a fallback if a clip cannot load.
 
