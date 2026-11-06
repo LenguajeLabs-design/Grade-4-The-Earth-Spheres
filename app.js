@@ -121,7 +121,7 @@
       utterance.onend=next;
       utterance.onerror=event=>{
         if(token!==generation)return;
-        const message=event.error==='not-allowed'?'Tap Listen to start the audio.':'That voice could not play. Choose another voice in Voice options.';
+        const message=event.error==='not-allowed'?'Tap Listen to start the audio.':'That voice could not play. Choose another voice in Reading settings.';
         stopSpeech(message);
       };
       synth.speak(utterance);
